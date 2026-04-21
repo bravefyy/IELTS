@@ -1,0 +1,1 @@
+I am not good at this type of question. 我最不擅长这种题型。
