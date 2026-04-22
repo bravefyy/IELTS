@@ -157,3 +157,14 @@ house of lechon
 kuya restaurant
 halo-halo
 roasted pig
+
+![[writing2 语料-1776864224788.webp|691]]
+
+![[writing2 语料-1776864340838.webp|565]]
+
+ persuade
+ rule and consequences
+ progress
+ punish. reward
+ reinforcement 强化 加固 增援 援兵 加固物
+ child with special needs

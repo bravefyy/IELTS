@@ -115,3 +115,69 @@ new skills
 wedding
 restrictions
 new devices /gadget
+
+![[speaking 语料-1776864368001.webp|472]]
+
+crabs practice     positive    optimistic      fresh    fruits       thick    hide     boil   cool ---  a little cold
+bring  sunny snack. snake warm--- a little hot   rainy      
+smile alone 独自微笑
+breast 胸部
+如果你想表达“把秘密藏在心底”，通常用 _Keep it in your **breast**_ (带有情感色彩)，而如果是“挺起胸膛”，则用 _Beat your **chest**_ (强调体格)。
+
+muscle pain 
+I can afford to but it.
+afraid 
+nervous
+confident
+helpful
+explain 
+massage
+ignore
+worth it 
+offer treat
+positive optimistic
+ bought  spinach菠菜
+ not include
+ strength
+ stretch 
+
+I took a nap 
+small or big standing position
+jealous cheat galleries photos
+energetic
+energy 
+honest 
+no reason
+bring up 
+national
+aquarium
+weak vulnerable not strong
+valuable
+oxygen
+injury
+expert
+life jacket
+break a leg  == good luck
+not deep
+scars
+knees
+rarely heavy
+swallow
+pork
+chick
+body
+field trip
+slide
+accident
+with pay
+miss to work
+lettuce 生菜
+meat
+damage
+cabbage 卷心菜
+broccoli 西兰花
+sore throat   咽喉痛
+
+
+ 
+

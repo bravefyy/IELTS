@@ -325,3 +325,112 @@ majority----most of
 
 ![[Writing1 基础语料-1776851048654.webp]]![[Writing1 基础语料-1776851048656.webp]]![[Writing1 基础语料-1776851048655.webp]]![[Writing1 基础语料-1776851048653.webp|617]]
 
+process diagram
+
+talks about steps   step1 step2    step3
+how things are done
+
+flowchart
+
+in order  - --- follow the  process or flow
+Grammar---- present simple (facts)
+
+voice: active voice  --- The rain falls when the cloud is heavy.
+       passive voice ---- the boxes are delivered after they are packed
+       be + p.p
+Overview : Need to talk about the start and the end.
+          need to say how many steps.
+ex: Overall, it is clear that the manufacture of milk has 10 stages. The process begins when cows are milked and ends when the boxes are delivered.
+
+B1: First 5 steps(50%)
+ex: the process begins when farmers milk their adult cows.
+
+B2: 50%
+After..., the...
+
+sequence advers
+  trigger expressions for a process
+  First .....Second......After that ...... Then ..... Finally...
+  To begin with, 1st step ... After, 2nd step...    etc....
+  To begin with step1, Next, step2, Third, step3..
+
+Grammar    passive.    sequence advers                      process Description
+
+
+![[Writing1 基础语料-1776864080738.webp]]
+
+![[Writing1 基础语料-1776863938406.webp]]![[Writing1 基础语料-1776863938404.webp]]
+
+![[Writing1 基础语料-1776863998290.webp|683]]
+![[Writing1 基础语料-1776864118494.webp|678]]
+
+
+![[Writing1 基础语料-1776864141815.webp|690]]
+
+![[Writing1 基础语料-1776864161513.webp|688]]
+
+
+process diagram / flow chart. 一般现在时。主动被动都可
+
+start/ finish
+
+B1:sequence 
+First, next, third...
+First , Second, next, after that...
+
+reservoir --- dam
+inhabit v ----live
+
+eat  ate eaten
+destroyed
+destroy ----damage.----demolish -------taken down
+acid rain   ------ polluted/ dirty rain
+
+
+Maps
+
+key points
+
+1 development   ---rural area ----urban
+2 vocab        buildings, structures, places, verbs related to development 
+                                              to improvement
+
+3 Grammar.      passive. preposition of places地点介词
+
+4 correct comparison       know the location
+                 ex: The northern sector of the city has experienced an increase in the number of shops.
+Things to look at 
+legend 
+ guide/ markings
+compass
+ direction
+ ex: The shop is next to the bank , (which is) located north of the school.
+ex: After 50 years, an airport was constructed northeast of the map.
+ 
+
+5 time (past present, future plans)
+
+
+
+overview -----describe the development/ changes
+ex:Overall, it is clear that the town has experienced a significant milestone(achievement) from being a rural forest area to a more developed metropolis(urban area).
+
+Body------divide the map of 4 quadrants 象限 / area with a reference part
+B1:50%.  B2:50%
+
+![[Writing1 基础语料-1776867963571.webp|599]]
+流程图 第一段改写
+1 The diagram illustrates the process of manufacturing bricks for construction industry.
+ n- manufacturing 动名词gerund
+ v - manufacturing 现在分词 present continuous
+
+2 The diagram illustrates various stages involved in the production of bricks for construction.
+I love reading 动名词
+of + n
+of: what / something
+for: purpose
+
+
+![[Writing1 基础语料-1776867280614.webp|347]]
+
+
