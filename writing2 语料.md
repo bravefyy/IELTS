@@ -168,3 +168,109 @@ roasted pig
  punish. reward
  reinforcement 强化 加固 增援 援兵 加固物
  child with special needs
+ 
+ proponent 倡导者of  relationship
+
+![[writing2 语料-1776917374264.webp|401]]
+
+
+reveal /show /disclose 
+ food /dish
+ nutritional information
+ nutritional content
+ people who have an allergy to some spices/nuts/seafood can avoid that particular meal which not only allow people  to eat healthy food but also feel safe dining outside....
+those with dietary restrictions
+recipe
+profit
+diet
+allergy
+healthy food 
+allergy：attract引起 reaction of  your body after eating something
+
+protein 10%
+calories 50%
+
+主动。被动
+
+The law should be implemented in order to have a peaceful society/community.
+The government implements a law.
+
+value of something
+The price or cost(价格) of the bag is $2.
+Yesterday, my total spending(花费)/costs/outlay/expenditure/expenses/overheads was $5.
+
+conservation
+presentation
+waste of resources 
+trend 
+native chicken
+durability
+
+![[writing2 语料-1776926855563.webp|342]]
+
+![[writing2 语料-1776927097296.webp|321]]
+
+![[writing2 语料-1776927272758.webp|399]]
+
+![[writing2 语料-1776927292875.webp|418]]
+
+![[writing2 语料-1776927314472.webp|219]]
+
+![[writing2 语料-1776927350972.webp|363]]
+![[writing2 语料-1776927370600.webp|320]]
+
+![[writing2 语料-1776927467996.webp|300]]
+
+![[writing2 语料-1776927481198.webp|282]]
+
+![[writing2 语料-1776927492698.webp|261]]
+
+![[writing2 语料-1776927508075.webp|234]]
+
+![[writing2 语料-1776927585786.webp|281]]
+
+![[writing2 语料-1776927718141.webp|252]]
+
+![[writing2 语料-1776930439306.webp|310]]
+
+![[writing2 语料-1776930462894.webp|279]]
+
+advertisement is an efficient way to show their products.
+
+connect customers and manufacturers.
+It provides more options to the customers.
+
+benefit of banning 
+It can be disturbing
+misleading
+
+I partially agree/disagree that the society gains/would not benefits from banning advertisements.
+
+
+![[writing2 语料-1776931180678.webp|289]]
+
+![[writing2 语料-1776931219975.webp|282]]
+
+![[writing2 语料-1776931269198.webp|223]]
+
+![[writing2 语料-1776932819968.webp|255]]
+
+past comparison & reason / result
+I used to study harder in college because I really liked the subjects. I think college is more difficult so I tried my best to pass all of my exams.
+
+![[writing2 语料-1776935042191.webp|280]]
+
+
+![[writing2 语料-1776935098168.webp|294]]
+
+
+![[writing2 语料-1776937293248.webp|408]]
+
+![[writing2 语料-1776937307382.webp|359]]
+
+![[writing2 语料-1776937406257.webp|272]]
+
+
+![[writing2 语料-1776937420775.webp|262]]
+
+![[writing2 语料-1776937443471.webp|256]]![[writing2 语料-1776937460287.webp|298]]

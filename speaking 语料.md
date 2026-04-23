@@ -178,6 +178,157 @@ cabbage 卷心菜
 broccoli 西兰花
 sore throat   咽喉痛
 
+forget
+tourist spot
+heavy traffic 交通拥堵
+pressure floods
+extend
+rarely
+raindrops 雨点
+cold <10
+necessary
+typhoon
+love yourself
 
- 
+hurry      
+quickly 
+as soon as possible 尽快地
+worth it !
+depress 沮丧
+wrong
+mistake
+
+nephew
+barriers
+pronunciation
+
+residence
+livelihood 生计
+
+prediction  -----what will happen in the future.
+
+fortune teller 算命先生
+realized
+explain
+express 
+expect
+purpose
+
+group class 
+passed away  去世
+the same vibes 同样的感觉
+mindset 思维模式
+influence
+tough    艰难的
+turn to pieces 碎成碎片
+pets
+
+pretend
+fake
+willingness eager 
+focus
+accept your fail and try again until it's perfect!
+Don't hate yourself 
+give gift
+normal
+mistakes 
+confuse
+struggles
+curious 好奇的
+addict  n 有瘾的人 入迷的人
+added adj 额外的
+wander
+
+
+Instead of walking I used my bike to go to school.
+
+ride and go to distant places.
+
+because carrying coins in my pocket is very noisy every time I walk.
+
+I'm not interested in collecting coins.
+
+vending machine. 售货机
+pedestrian lane 人行道
+skywalk 人行天桥
+flyover 立交桥
+
+ The last time I laughed was yesterday. My friend told me about stupid things that happened to him.
+
+She made me interested in Math that's why I really like this teacher.
+
+The smell of perfume makes me spirited and inspired.
+
+extend 1 month
+
+control your sleepy
+free time 
+meet disturbing 令人不安的遭遇
+
+agressive
+parade festival
+teasing 戏弄
+take a nap 
+wait
+
+pretend
+fake
+imagine
+
+annoying adj 恼人的
+terrible. adj 严重的 可怕的。令人震惊的
+
+self-defense 自卫
+revenge 报复
+
+jail 拘留所 一年以下
+prisoners。监狱 一年以上
+
+![[speaking 语料-1776932536629.webp|223]]
+
+
+![[speaking 语料-1776933057830.webp|201]]
+
+
+nerve pain
+
+high blood。高血压
+hydration. 补水
+dehydration 脱水
+migraine 偏头痛
+nausea 恶心
+
+healthy
+choose
+horse
+vitamins
+blood
+sour
+salty
+sweet
+oily
+bitter
+Are you afraid getting older?
+
+rules regulation. liberty
+motivation.
+achievement
+architecture
+taste
+goals
+pressure
+liberty
+
+**Freedom from** fear / hunger. 免于……的自由
+
+
+vinegar 醋
+sour  酸的
+sauce。调味汁，酱汁 ;酱油
+
+doubt
+introvert n 内向的人 shy  introverted adj
+ambivert
+
+extrovert 外向的人
 

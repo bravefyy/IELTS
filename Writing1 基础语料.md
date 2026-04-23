@@ -418,6 +418,65 @@ ex:Overall, it is clear that the town has experienced a significant milestone(ac
 Body------divide the map of 4 quadrants 象限 / area with a reference part
 B1:50%.  B2:50%
 
+two maps
+-past
+-present / the other year
+
+![[Writing1 基础语料-1776912046107.webp|399]]
+change:
+blueprint(plan)
+development(plan)
+improvement details
+
+changes:  nature reserve(green area)    ---- more urban landscape
+         less commercial       ----- to a developed metropolis/ metro
+
+north of xxxx               places/reference
+south of xxxx
+northeast of xxxx
+
+cross v.            across adv/prep.        next to
+ex: Apartment is north of the house.    公寓在平房的北边。
+ex: The apartment is across the house. 公寓就在房子的对面。
+
+plan --future
+2025--past
+
+The maps show the original plan of the city of Kington in 1950 and its planned development in 2020.
+
+The maps show the original plan of the city of Kington in 1950 and the developments in 2020.
+
+improved = a better one (bigger/ larger)
+campus=== school area.
+will = be going to== is planed (passive)
+is building
+
+将来时态
+will   prediction/ sudden plan. 50%
+be+ going to         more definite adj 更明确/sure 80%-90%
+
+I will go to SM this weekend.
+I am going to SM this weekend because I have to buy some groceries.
+进行时态表将来 100%会发生
+I am shopping this weekend at SM with my friends to buy groceries.
+
+B1:
+Looking at the school's location in 2004, there were less buildings built in the area. In this year, there were two school buildings located west of the sports filed. These infrastructures were separated by a path which connects the main entrance and carpark. Two decades after, the first school building and the second structure will be connected.
+This plan makes the path shorter. However, the road is going to be extended  running across the southern part of school building number 2.
+B2:
+Moving to other proposed/suggest improvements/changes, In 2004, a larger sports field was seen as compared to a smaller land area 20 years after. The planned third school building is going to be built next to a second car park. The new parking area will be accessible by a new road which goes through the forest area in the south.
+
+B2:优化
+Moving to other proposed/suggest improvements/changes, In 2004, a larger sports field was seen as compared to a smaller land area 20 years after. The planned third school building is going to be built next to a second car park. This construction is going to make the green area smaller in contrast to 2004. The new parking lot will be accessible through a road that passes the forest area in the south.
+在小作文地图题中construction== structure
+a lot = many 
+lot = land. 
+the vacant lot = empty land 
+看到 Build/Formulate... 的高级替换词，选 construct
+
+
+流程图
+
 ![[Writing1 基础语料-1776867963571.webp|599]]
 流程图 第一段改写
 1 The diagram illustrates the process of manufacturing bricks for construction industry.
@@ -433,4 +492,147 @@ for: purpose
 
 ![[Writing1 基础语料-1776867280614.webp|347]]
 
+
+表格题 Table
+G-- group
+C-- compare
+A-- analyze
+![[Writing1 基础语料-1776916141847.webp|379]]
+ex:
+Overall, it is clear that the amount of vehicles in metropolis for the given countries increased. While some countries  showed significant growth, Japan and Germany showed /present otherwise/opposite.
+For Germany, the car volume varied between 1991 to 1994. In 1991,...., a year after it..., but showed a constant decline....
+
+Overall, it is clear that USA and Canada showed an increasing trend each decade with Canada as the highest per given year while Japan displays the opposite.
+
+![[Writing1 基础语料-1776917425612.webp|556]]
+
+
+![[Writing1 基础语料-1776926921514.webp|314]]
+
+
+5 years = half of decade
+
+change: develop. improve
+
+internet = online website
+
+beautiful = pretty
+difficulty = challenging
+
+adults ----16 years old and above
+mature people
+people of legal age in the UK
+
+![[Writing1 基础语料-1776918244426.webp|366]]
+
+attire
+fashion
+vowel sounds 元音
+
+consonant sounds 辅音
+
+collocations:
+usage of sth
+believe in sth
+good at sth
+good for someone 对某人有益
+
+specific information
+
+adj + noun
+article(a, an, the) + noun
+
+The provided table depicts the comparison of data on the usage of web among the people of legal age in the UK for half a decade.
+
+The provided table depicts the comparison of the proportion of the usage of web among people of legal age in the UK for a half decade from 2000 to 2005.
+
+
+**Overall**, it can be seen that British adults use the internet more every year(逐年增加)except 16-24 years old in 2005 because of a slight decrease.
+
+句型：S-V-O  general detail of the graph
+model answer:
+Overall, it can be seen that the usage of internet increased yearly except for the teens and early twenties(16-24) in 2005 due to a slight drop. Additionally, web usage is popular among this(reflexive pronoun 反身代词) age group.
+
+B1:
+The most significant feature of the graph is that teenagers and people in their early twenties ranked first in the proportion of internet users per year. In October 2000, they showed 70% of their population use the web compared to 53% of the individuals from 26-44 years old. After four years, the younger population's figure rose to 90% while the older age group increased by around 50% in the same year. However, **the former** dropped 3% the following year while **the latter** increased by 2%.
+
+![[Writing1 基础语料-1776925780968.webp|342]]
+
+![[Writing1 基础语料-1776925798217.webp|359]]
+
+![[Writing1 基础语料-1776925861258.webp|291]]
+
+recent maps                           future maps
+school ----southwest   |  southwest
+countryside                    |   eliminate/remove the countryside  
+shops      build bus station; shopping center; carpark
+park      main road replace to pedestrians.  park reduce size
+housing   school area remain around the ring road.
+main road   additional new housing in the northwest and in the southeast
+
+
+![[Writing1 基础语料-1776926357582.webp|418]]
+
+![[Writing1 基础语料-1776926882757.webp|314]]
+
+![[Writing1 基础语料-1776927007910.webp|273]]
+
+![[Writing1 基础语料-1776927023766.webp|266]]
+
+![[Writing1 基础语料-1776927040956.webp|239]]
+
+
+
+
+![[Writing1 基础语料-1776927632448.webp|306]]
+
+![[Writing1 基础语料-1776927778351.webp|361]]
+
+![[Writing1 基础语料-1776927659916.webp|341]]
+
+
+number of complaints unchanged stayed about 400 in June it became the lowest in three department.
+dropped
+declined gradually
+decreased slightly
+downward trend, which started 800. Whereas, declined sharply after March to just over 400, in May..
+
+
+![[Writing1 基础语料-1776930080011.webp|273]]
+
+![[Writing1 基础语料-1776931599427.webp|218]]
+
+![[Writing1 基础语料-1776931666595.webp|192]]
+
+![[Writing1 基础语料-1776930133127.webp|186]]
+
+![[Writing1 基础语料-1776930152042.webp|216]]
+
+![[Writing1 基础语料-1776931564794.webp|243]]
+
+![[Writing1 基础语料-1776930508787.webp|235]]
+
+![[Writing1 基础语料-1776930544821.webp|230]]
+
+![[Writing1 基础语料-1776931815160.webp|252]]
+
+
+![[Writing1 基础语料-1776932677263.webp|198]]
+
+![[Writing1 基础语料-1776932875599.webp|282]]
+
+![[Writing1 基础语料-1776933084316.webp|255]]
+
+![[Writing1 基础语料-1776933611543.webp|202]]
+
+![[Writing1 基础语料-1776933633399.webp|275]]
+
+![[Writing1 基础语料-1776934429317.webp|316]]
+
+
+B1:
+The most significant feature of the graph is that local students in the UK dominated foreign leaners in gaining a degree in international law. In 2009, 70% of UK students achieved their certificates in global law compared to only 49% of foreign learners.........
+
+
+![[Writing1 基础语料-1776934361625.webp|221]]
 
