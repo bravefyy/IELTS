@@ -328,7 +328,73 @@ sauce。调味汁，酱汁 ;酱油
 
 doubt
 introvert n 内向的人 shy  introverted adj
-ambivert
+ambivert  中间性格者 
 
-extrovert 外向的人
+extrovert 外向的人. friendly  socialize
+
+public private
+recharge
+secure
+eldest 年龄最大的。长子 大哥 排行老大-rank 
+elderly 上了年纪的
+oldest -age。最旧的，最古老的
+adult 
+teenager
+
+hat
+cap
+straight
+reunion
+clean 
+soft
+sauce
+
+construct
+structure
+yawning 打哈欠的 --feel sleepy
+
+rest 
+mix 
+challenging
+
+![[speaking 语料-1776955020360.webp|220]]
+
+
+![[speaking 语料-1776955056403.webp|272]]
+
+![[speaking 语料-1776955075643.webp|315]]
+
+![[speaking 语料-1776955095821.webp|306]]
+
+
+closet
+nice
+rumor
+gossip 流言蜚语 小道消息 闲聊
+interested
+fashion
+flood
+brand
+mane
+donate
+welfare
+panic
+corrupt 腐败
+epi center
+tent
+cement 水泥。concrete 混凝土
+roof
+storey
+climate
+abuse
+
+
+
+
+
+
+![[speaking 语料-1776956485394.webp|343]]![[speaking 语料-1776956485393.webp|342]]
+
+
+
 

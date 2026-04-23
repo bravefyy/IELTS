@@ -636,3 +636,19 @@ The most significant feature of the graph is that local students in the UK domin
 
 ![[Writing1 基础语料-1776934361625.webp|221]]
 
+
+The three pie charts provide the academic records in 1990, 2000, and 2010 about the degrees that were granted in different fields at the National University. There were four majors given in those particular years ---Computer Science, Medicine, Business, and Law.
+
+Units are measured in...
+
+The three pie charts illustrate the qualifications granted in various courses at National University in 1990, 2000, and 2010.
+
+
+![[Writing1 基础语料-1776955745409.webp|403]]
+
+![[Writing1 基础语料-1776956844622.webp|392]]
+
+![[Writing1 基础语料-1776956871626.webp|370]]
+
+
+

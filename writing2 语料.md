@@ -268,9 +268,64 @@ I used to study harder in college because I really liked the subjects. I think c
 
 ![[writing2 语料-1776937307382.webp|359]]
 
+![[writing2 语料-1776954316437.webp|411]]
+
+![[writing2 语料-1776954686072.webp|350]]
+
+
+ 
+![[writing2 语料-1776954380752.webp|274]]
+
+![[writing2 语料-1776954410944.webp|301]]
+
 ![[writing2 语料-1776937406257.webp|272]]
 
 
 ![[writing2 语料-1776937420775.webp|262]]
 
-![[writing2 语料-1776937443471.webp|256]]![[writing2 语料-1776937460287.webp|298]]
+![[writing2 语料-1776937443471.webp|422]]![[writing2 语料-1776937460287.webp|377]]
+
+
+![[writing2 语料-1776954855858.webp|498]]
+
+
+![[writing2 语料-1776954878429.webp|419]]
+
+![[writing2 语料-1776954927855.webp|433]]
+
+![[writing2 语料-1776954954151.webp|413]]
+
+![[writing2 语料-1776955265798.webp|468]]
+
+
+![[writing2 语料-1776955294242.webp|439]]
+
+![[writing2 语料-1776955623952.webp|436]]
+
+
+![[writing2 语料-1776955644112.webp|427]]
+
+![[writing2 语料-1776956917542.webp|433]]
+
+![[writing2 语料-1776956946356.webp|436]]
+
+![[writing2 语料-1776956967896.webp|436]]
+
+![[writing2 语料-1776955679992.webp|418]]
+
+
+![[writing2 语料-1776956253448.webp|347]]
+![[writing2 语料-1776956277221.webp|347]]
+![[writing2 语料-1776956303260.webp|385]]
+![[writing2 语料-1776956321721.webp|373]]
+![[writing2 语料-1776956336548.webp|354]]
+
+![[writing2 语料-1776956355595.webp|429]]
+
+
+
+
+
+
+
+
