@@ -395,6 +395,29 @@ abuse
 
 ![[speaking 语料-1776956485394.webp|343]]![[speaking 语料-1776956485393.webp|342]]
 
+# speaking模版Lordy
+
+![[speaking 语料-1777000423603.webp]]
+
+
+![[speaking 语料-1777000431568.webp]]
+
+![[speaking 语料-1777000438633.webp]]
+
+![[speaking 语料-1777000444572.webp]]
+
+
+![[speaking 语料-1777000452268.webp]]
+
+
+![[speaking 语料-1777000460967.webp]]
+
+
+![[speaking 语料-1777000468851.webp]]
+
+![[speaking 语料-1777000486873.webp]]
+
+
 
 
 

@@ -1,4 +1,3 @@
-
 The table/illustration gives/shows/provides/illustrates/represents/depicts/indicates the information on the monthly costs/spending/expenditure/expenses/ overheads/outlay of a typical/average/representative/classic/characteristic family in Australia in 1991 and 2001.
 
 the data reveals...
@@ -26,7 +25,9 @@ Body1: 5sentences
 The most significant/important feature of the graph is that tennis shows the highest viewership for all sports, in total ,there are 25.9 million people who viewed the sport with the highest in USA at 7 million. Although USA had the highest viewers, Golf presents to be the most popular among Americans at 11.2 million views. Additionally, Golf ranked second most viewed(adj) at 4 million viewers lesser/fewer than tennis. 
 最后一句完整表达：Golf is ranked as the second most viewed [sport], with 4 million viewers fewer than tennis.
 
-表格题![[IMG_9078.heic]]
+表格题
+![[Writing1 基础语料-1777004127340.webp|617]]
+
 The table below gives information on consumer spending on different items in five different countries in 2002.
 percentage of national consumer expenditure by category- 2002
 
@@ -34,7 +35,9 @@ percentage of national consumer expenditure by category- 2002
 改写：
 The graph illustrates the comparison of various post-school certifications between genders in Australia in 1999.
 Overall, it is clear that men have more proportion in terms of getting the highest educational qualifications in Australia in the given year.
-![[IMG_9086.heic]]
+
+![[Writing1 基础语料-1777004073532.webp|421]]
+
 后中学教育体系 (Post-school Education)
 
 Higher level studies (高等教育): 这是一个总称，涵盖了大学及以上的学习。
@@ -95,7 +98,8 @@ pass/fail/study/take/get course.  make essay
 
 题目
 The charts below show the Medical research funding amount in million of Dollars in Someland and also shows the death number for this area.
-![[IMG_9159.heic]]
+![[Writing1 基础语料-1777004179354.webp|299]]
+
 
 比较级用法：
 
