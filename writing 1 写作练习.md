@@ -94,3 +94,32 @@ impoverished soil 贫瘠的土地
 数据图 ：table pie bar line.        chart-graph 图表
 流程图： flow chart.         flow diagram
 地图： maps---- graphs---------pictures
+
+Overview:
+The table/ line graph/ bar chart/ pie chart shows that...
+It can be seen/ is clear from the table/ line graph /bar chart/ pie chart that....
+In terms of the table ,...(With regard to the table)就表格而言，……（关于表格）
+As can be seen from the table, ...
+
+There has been a reducing /decreasing/an increasing trend in A during the period between xxx and xxxx.
+
+The data of A has been increasing/ decreasing from xx to xx.
+
+The period during .../from...to... has witnessed an increasing/ a decreasing trend in A.
+The period during .../from...to... has witnessed an increase / a decrease of A.
+
+As can be seen from the line graph, the period between xxx and xxx has witnessed  increasing trends in average CO2 emissions of both Italy and Portugal.
+
+Regarding the line graph, the average CO2 emissions of both Italy and Portugal have been increasing from xx to xx.
+关于折线图，意大利和葡萄牙的平均二氧化碳排放量均呈上升趋势，从xx增加至xx。
+
+数字
+在多少  at
+The number/data/figure was (at) 100.
+升降了 increase / decrease (by)
+The number increased (by) 100.
+升降到 increase / decrease to
+The number increased to 100.
+时态： 过去式 现在完成式   偶有一般将来式， 基本没有现在相关。
+
+
