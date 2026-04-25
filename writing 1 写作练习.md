@@ -118,8 +118,159 @@ Regarding the line graph, the average CO2 emissions of both Italy and Portugal h
 The number/data/figure was (at) 100.
 升降了 increase / decrease (by)
 The number increased (by) 100.
-升降到 increase / decrease to
+升降到 increase / decrease to.
 The number increased to 100.
 时态： 过去式 现在完成式   偶有一般将来式， 基本没有现在相关。
+the number/data /figure was at  100.
+The data of xx increased by 1000.
+
+As can be seen from the graph, the period between xx and xxx has witnessed  increasing trends in average CO2 emissions of both xxx and xxx.
+
+has witnessed an increase of A
+
+Regarding the line graph, the average CO2 emissions of both xx and xx have been increasing from xxx to xxx.
+
+
+A 动词 adv at/by/to number
+verb:
+climb== increase/grow/rise
+rocket== soar
+reach the peak== peak
+plummet== plunge
+reach the bottom==  bottom
+fall == decline/drop/decrease
+remain stable== level off=remain constant
+fluctuate
+
+adv:
+剧烈地
+drastically, rapidly, obviously, dramatically, significantly, substantially/sharply
+
+稳健地
+stably, steadily, gradually
+
+温和地
+slightly, moderately, mildly, marginally
+
+noun
+上升
+increase climb rise
+下降
+decrease decline drop
+
+A had /experienced  a stable climb of number.  上升了多少。
+A had /experienced  to number. 上升到多少
+
+
+adj
+剧烈的
+drastic dramatic rapid substantial obvious sharp significant
+稳健的
+stable steady gradual
+温和的
+slight moderate mild marginal
+
+A climbed steadily (by) 500.
+A had a steady climb of 500.
+
+A drop significantly to 800.
+A experienced a rapid drop/decline to 800.
+
+A fluctuated around 800.
+A 围绕800波动
+
+A leveled off at 500.
+A 稳定在500.
+
+A reached the peak at 500.
+A reached the top  at 800.
+A 达到最高值500.
+
+起点：通常只需要点明数字时间 A的区间状态
+A increased from 100 单位名称 in 1990 to 500单位名称 in 2000.
+
+A一直时最大或最小
+A was the largest during the period, increasing from 100 in 1990 to 300 in 1995.
+As the largest / most popular one, A increased from 100 in 1990 to 300 in 1995.
+
+起点或终点是最大或最小，最终不是最大或最小smallest    least popular
+A was at 100 in 1990, which was the largest one at that time.
+In 1990, the largest one is A (100), which increased to 150 in 1995.
+A(100) ranked the top in 1990,  increasing to 150 in 1995.
+
+终点
+
+如果一直是 最大或最小
+As the least one,  A kept stable around 150.
+
+如果最终为最大或最小，当最初不是
+A increased to 200 in 2000, more than the others by the end of the period.
+increasing to 200, A ranked the top in 1999.
+
+交点
+交点需要铺垫 第一条线不提交点，第二条线提交点
+
+overtake /surpass
+A超过B
+A surpassed/overtook B.
+B was surpassed / overtaken by A.
+
+拐点--------极值点
+
+peak/ bottom at
+reach the peak at
+reach the bottom at
+
+首尾最值需点明， 整条线最值需点明
+
+差值
+
+A is 4 times as large as B.
+A is 3 times lager than B.
+
+A is 4 times the size of B.
+The data of A is as 4 times large as that of B.
+The data of A is 4 times as large as that of B.
+
+百分比
+占 
+occupy/ represent/ take up / account for
+比
+proportion percentage  rate
+
+A occupies 50%.
+The proportion of A is 50%
+The proportion that/ which A  accounts for is 50%.
+
+
+少量  a small fraction / a minority
+大量  a significant proportion / a vast majority
+
+A increased from 100 in 1990 to 200 in 1995, then dropped to 120 in 2000.
+
+After it increased from 100 in 1990 to 200 in 1995,  A dropped  to 120 in 2000.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
