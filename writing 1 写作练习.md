@@ -136,7 +136,7 @@ verb:
 climb== increase/grow/rise
 rocket== soar
 reach the peak== peak
-plummet== plunge
+plummet== plunge=slump
 reach the bottom==  bottom
 fall == decline/drop/decrease
 remain stable== level off=remain constant
@@ -249,6 +249,85 @@ The proportion that/ which A  accounts for is 50%.
 A increased from 100 in 1990 to 200 in 1995, then dropped to 120 in 2000.
 
 After it increased from 100 in 1990 to 200 in 1995,  A dropped  to 120 in 2000.
+
+A increased from 100 in 1990 to 200 in 1995, before it dropped to 120 in 2000.
+
+A increased from 100 in 1990 to 200 in 1995, which dropped to 120 in 2000.
+
+分词
+After increasing from 100 in 1990 to 200 in 1995, A dropped to 120 in 2000.
+A increased from 100 in 1990 to 200 in 1995, before dropping to 120 in 2000.
+
+名词化 时间状语
+After/ Following an increase from 100 in 1990 to 200 in 1995, A dropped to 120 in 2000.
+A increased from 100 in 1990 to 200 in 1995,  **followed by** (随后是...)a drop to 120 in 2000.
+A increased from 100 in 1990 to 200 in 1995,  before a drop to 120 in 2000.
+
+强调剧烈
+Following a **sharp** increase from 100 in 1990 to 200 in 1995, A **slumped** to 120 in 2000.
+强调峰值
+Following an increase from 100 in 1990 to a **peak** of 200 in 1995, A dropped to 120 in 2000.
+
+**前半部分**
+从句:After it increased...
+
+分词：After increasing
+
+动名词作状语
+After / Following + n(an increase)
+
+**主句**
+
+A + 动词....,
+
+**后半部分**
+从句：before it increased to..
+分词：before increasing to.. **推荐**
+动名词状语：
+before + n(an increase) to..
+followed by + n (an increase) to..
+非限定定语从句
+, which increased to ...
+
+After increasing from 70 to 75 million tonnes, the quantities of goods transported by road  reduced to the original level, before a gradual rise to over 80 million tonnes in the following 10 years.
+
+After increasing from 70 to 75 million tonnes, the quantities of goods transported by road reduced  to the original level, before a gradual rise to over 80 million tonnes in the following 10 years.
+
+()和respectively 的用法
+The data was 100 in 1990, and increased to 150 in 1995.
+The data (100 in 1990 ) increased to 150 in 1995.
+The date  increased  in the next 5 years (from 100 to 150).
+
+A increased from 100 in 1990 to 150 in 1995.
+A increased from 90 in 1990 to 135 in 1995.
+A increased from 80 in 1990 to 120 in 1995.
+
+A, B and C all increased between 1990 and 1995, from 100, 90 and 80 to 150, 135 and 120 respectively.
+
+After increasing from about 8.5 tonnes in 1967 to the peak at over 10 tonnes in 1977, the CO2 emissions in Sweden kept decreasing, which was surpassed by that of Italy at 7 tonnes in 1987 and by that of Portugal at just over 5 tonnes in 2007.
+
+After increasing to the peak in 1977 (from 8.5 tonnes to over 10 tonnes), the CO2 emissions in Sweden kept decreasing, which was surpassed by those of Italy and Portugal at 7 tonnes in 1987 and at just over 5 tonnes in 2007 **respectively**.
+
+段间段内连接
+近似
+similarly, likewise 
+A increased during the period. More specifically..... Similarly, B also rose...
+
+相反
+differently, in(by) contrast, while, whereas
+There has been an increasing trend in A and B. To be exact, ...
+In contrast, the period witnessed a drop in C and D.
+
+The line graph shows that CO2 emissions in Italy and Portugal showed an **upward trend** from 1967 to 2007.
+
+Regarding the line graph, the average CO2 emissions of both Italy and Portugal have been increasing from 1967 to 2007.
+
+
+
+
+
+
+
 
 
 
