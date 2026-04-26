@@ -322,6 +322,8 @@ The line graph shows that CO2 emissions in Italy and Portugal showed an **upward
 
 Regarding the line graph, the average CO2 emissions of both Italy and Portugal have been increasing from 1967 to 2007.
 
+主体段
+
 
 
 
