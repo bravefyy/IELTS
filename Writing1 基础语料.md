@@ -1,12 +1,19 @@
 The table/illustration gives/shows/provides/illustrates/represents/depicts/indicates the information on the monthly costs/spending/expenditure/expenses/ overheads/outlay of a typical/average/representative/classic/characteristic family in Australia in 1991 and 2001.
 
+give/provide show illustrate present represent indicate depict the information on the monthly 
+costs spending expenses expenditure overheads outlay of typical classic average characteristic stereotypical representative family / household in Australia in 1991 and 2001.
+
 the data reveals...
 the graph shows...
+the data reveals...
+the graph shows..
 
 Overall, it is clear that both essential and non essential products expenses increased after 10 years, while transport and clothing show the opposite.
 
+Each figure is expressed in millions.
+The illustration shows that the figure for how many people watch sports in English-speaking countries. Each figure is expressed in millions.
 
-The given illustration/table provides/gives/shows the data/figures on/for how many people watch sports in four English-speaking countries. Each figure is expressed in millions.
+The given illustration/table provides/gives/shows the data on /figures for how many people watch sports in four English-speaking countries. Each figure is expressed in millions.
 ps:gives information about或  provides data on 或 shows figures for
 
 Overall,  it is clear that most countries watch tennis  while USA has the most number of population/people who watches sports

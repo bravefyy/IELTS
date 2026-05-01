@@ -133,7 +133,7 @@ Regarding the line graph, the average CO2 emissions of both xx and xx have been 
 
 A 动词 adv at/by/to number
 verb:
-climb== increase/grow/rise
+climb== increase/grow/rise/ go up
 rocket== soar
 reach the peak== peak
 plummet== plunge=slump
@@ -152,6 +152,8 @@ stably, steadily, gradually
 温和地
 slightly, moderately, mildly, marginally
 
+
+
 noun
 上升
 increase climb rise
@@ -165,6 +167,7 @@ A had /experienced  to number. 上升到多少
 adj
 剧烈的
 drastic dramatic rapid substantial obvious sharp significant
+
 稳健的
 stable steady gradual
 温和的
@@ -287,9 +290,9 @@ A + 动词....,
 before + n(an increase) to..
 followed by + n (an increase) to..
 非限定定语从句
-, which increased to ...
+which increased to ...
 
-After increasing from 70 to 75 million tonnes, the quantities of goods transported by road  reduced to the original level, before a gradual rise to over 80 million tonnes in the following 10 years.
+After increasing from 70 million tonnes  in 1974 to 75 million tonnes in 1978, the quantities of goods transported by road  reduced to the original level, before a gradual rise to over 80 million tonnes in the following 10 years.
 
 After increasing from 70 to 75 million tonnes, the quantities of goods transported by road reduced  to the original level, before a gradual rise to over 80 million tonnes in the following 10 years.
 
@@ -320,10 +323,97 @@ In contrast, the period witnessed a drop in C and D.
 
 The line graph shows that CO2 emissions in Italy and Portugal showed an **upward trend** from 1967 to 2007.
 
-Regarding the line graph, the average CO2 emissions of both Italy and Portugal have been increasing from 1967 to 2007.
+Regarding the line graph, the average CO2 emissions of both Italy and Portugal have been increasing from 1967 to 2007. To be exact, after a rapid increase from just over 4 tonnes to over 6 tonnes in the first decade, the average CO2 emissions per person in Italy went up mildly to nearly 8 tonnes by 1997, before leveling off at this figure until 2007. Similarly, although it was the least in the 1967 (just over 1 tonne), the data of Portugal presented a obvious climb/rise/increase to more than 5 tonnes in the first 30 years, and kept stable at this level. /before remaining stable at this level.
 
-主体段
+另一种写法
+1: Regarding the line graph, the average CO2 emissions of both Italy and Portugal have been increasing from 1967 to 2007.
 
+X: To be exact, after a rapid increase from just over 4 tonnes to over 6 tonnes in the first decade, the average CO2 emission per person in Italy went up mildly to nearly 8 tonnes by 1997, before leveling off at this figure until 2007. **Similarly**, although it was the least in 1967 (about 1 tonne), the data of Portugal presented a sharp / an obvious rise to over/more than 5 tonnes in the first 30 years, and kept stable at this level. 
+
+X:To be exact, the average carbon dioxide emissions person in Italy (just over 4 tonnes) and Portugal (about 1 tonne) ranked the third and fourth place. The two number have both increased significantly by 1997 to nearly 8 tonnes and 5 tonnes respectively, before leveling off until 2007
+
+1: **In contrast**, CO2 emissions in the UK and Sweden decreased over the 40-year period.
+X:More precisely, as the country with the largest CO2 emissions, the data in UK kept falling stably by 2 tonnes during the period.  Differently, after increasing to the peak in 1977 (from just over 8 tonnes to over 10 tonnes), the CO2 emissions in Sweden kept decreasing, which was surpassed by     those of Italy and Portugal    at 7 tonnes in 1987 and just over 5 tonnes in 2007 respectively.
+
+In sum, while average CO2 emissions per person in UK and Sweden decreased over the 40 years, the data in Italy and Portugal enhanced.
+综上所述，尽管英国和瑞典的人均二氧化碳排放量在过去40年间有所下降，但意大利和葡萄牙的数据却呈上升趋势。
+
+In sum, in terms of average CO2 emissions per person, gaps among the 4 countries have greatly reduced.
+综上所述，就人均二氧化碳排放量而言，这四个国家之间的差距已大幅缩小。
+
+1:As can be seen from the graph, the consumption of energy by petrol and oil , coal, and natural gas have been more than 15 quadrillion (15q) units, and will keep above this level until 2030.
+
+1:In contrast, the consumption of energy by nuclear, solar/wind, and hydropower were around 5 quadrillion (5q) units and will stay around this level in the future.
+
+
+X:Petrol and oil have been the most important fuel since 1980, kept increasing from 35q units to over 40q units except only 2 drops from 1980 to 1985 and from 1990 to 1995 respectively.
+The data will enhance to nearly 50q units in 2030.
+
+X:Similarly, from 16q units and 20q units respectively in 1980, energy consumptions by coal and natural gas have both increased to 23q units, with the two fuels equal in 1997, in 2000, and between 1985 and 1990. After both numbers reaching 25q units in 2012, the data of coal is expected to go up to nearly 30q units in 2030, while that of natural gas is predicted to level off.
+
+状语部分改为分词独立主格
+With both numbers **having reached** 25q units in 2012, coal consumption **is projected to** climb/go up...
+
+多点相交
+主句+ with A and B equal at 100 in 1990 and 200 in 2000.
+
+X:Energy consumptions were all at 4q in 1980 and increased to 5q in 1990.
+Whereas the data of nuclear has climbed mildly to 6q, those of solar/wind and hydropower fluctuated around 5q, with the two equal in 1997 and 2005.
+It is predicted that the data of nuclear, solar/wind, and hydropower will be stable at 6q, 5q, and 4q in the future.
+
+结尾
+In sum, in the foreseeable future, fossil fuels will still be the major sources of energy,  while nuclear and renewable energies will remain relatively insignificant.
+
+
+静态图
+
+The chart shows that there are four main causes of farmland becoming degrade in the world today.
+
+The table shows that Europe had the highest proportion of degraded land among the three regionals in the 1990s.
+
+细节/details 描写(最差)：
+
+最值：
+UK has the highest/lowest figure for..., at....%.
+UK rank the first /second ...place in terms of ....
+Domestic water use occupies/accounts for/constitutes 构成/ takes up 占据/ represents the largest/smallest proportion of ...%.
+
+倍数表达 例如A=90, B=30
+
+A is three times as much as B.  A是B的3倍
+A is two times more than B.    A比B大2倍
+A is 60 more than B.   A和B相差60.
+
+最值 类别间  类别内      最值需要点名
+差值
+共性合并差异比较
+
+As can be seen from the table , the expenditure on food/drink/tobacco occupies the largest proportion among the three categories.
+To be exact,  the largest number was from turkey (32.14%), followed by Ireland (28.91%).
+The others were between 15% and 20%, 16.36% in Italy, 18.80% in Spain, and 15.77% in Sweden respectively.
+
+Besides, people spent 5%-10% of their money on clothing and footwear. 
+More accurately, the largest proportion was 9% in Italy, nearly twice as large as the smallest one, 5.4% in Sweden. In the other 3 countries, wearing represented about 6.5% of whole expenses.
+
+Leisure and education cost the least in the 5 countries, with the largest proportion of only 4.35% in Turkey. 
+Whereas the percentages in Italy and Sweden were similar，3.20% and 3.22% respectively, those in Ireland and Spain were around 2%, only half of that in Turkey.
+
+In sum, among the 3 categories mentioned above, food/drink/tobacco accounted for the largest proportion in 2002, while leisure/education took up the least.
+
+流程图
+
+The first graph illustrates the process of cement production.
+The second graph shows how concrete is produced.
+
+The first graph illustrates the process of cement production. After crushed to powders, limestone and clay are mixed together, before they are put through a rotating heater. Next, the heated powders are grinded to cement, which are package at last.
+
+The second graph shows how concrete is produced. The raw materials for making concrete are cement, water, sand, and gravel (small stones), which constitute 15%,10%, 25%, and 50% respectively. Rotating clockwise, a concrete mixer blends all the material together and produces concrete eventually.
+
+In sum, there are two major stages to make concrete: the first one is cement production, and the second one is concrete production.
+
+
+The diagram below shows the procedure of getting a driving license in the US.
+Summarise the information by selecting and reporting main features, make comparison where relevant.
 
 
 
