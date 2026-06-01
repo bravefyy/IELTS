@@ -6,7 +6,7 @@
       {
         "id": "00ca18caa9ae895c",
         "type": "tabs",
-        "dimension": 48.44868735083532,
+        "dimension": 47.10401891252955,
         "children": [
           {
             "id": "ce2bacd9c2dcc107",
@@ -23,49 +23,23 @@
             }
           },
           {
-            "id": "4fdb488bc107f7e9",
+            "id": "a3963c1c6d18dbbb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "CPILS小作文模版.md",
-                "mode": "source",
-                "source": false
+                "file": "(25年更新）A类小作文范文65篇.pdf",
+                "page": 32,
+                "left": -17,
+                "top": 382,
+                "zoom": 0.946638655462185
               },
-              "icon": "lucide-file",
-              "title": "CPILS小作文模版"
+              "icon": "lucide-file-text",
+              "title": "(25年更新）A类小作文范文65篇"
             }
           },
           {
-            "id": "d5cf19fb4c224ab2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "有道写作小作文语料.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "有道写作小作文语料"
-            }
-          },
-          {
-            "id": "ededa87a065c6667",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "雅思听力混淆同音词.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "雅思听力混淆同音词"
-            }
-          },
-          {
-            "id": "004ba2a9689914fb",
+            "id": "7f9cd3e472364f3c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -77,30 +51,77 @@
               "icon": "lucide-file",
               "title": "writing 1 写作练习"
             }
+          },
+          {
+            "id": "9ff923cc30383593",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "（25年更新） 大作文范文50篇.pdf",
+                "page": 1,
+                "left": -17,
+                "top": 846,
+                "zoom": 0.9507275829998262
+              },
+              "icon": "lucide-file-text",
+              "title": "（25年更新） 大作文范文50篇"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
-        "id": "41fe19f2e278f1a9",
+        "id": "933ef75f0dda9b01",
         "type": "tabs",
-        "dimension": 51.551312649164686,
+        "dimension": 52.895981087470446,
         "children": [
           {
-            "id": "8890b7c19fbc5ec8",
+            "id": "2398c0fbeb5d7879",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "有道写作小作文语料.md",
+                "file": "默写.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "有道写作小作文语料"
+              "title": "默写"
+            }
+          },
+          {
+            "id": "6918193596f7be99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "小作文练习.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "小作文练习"
+            }
+          },
+          {
+            "id": "83c90494e0ff1bd9",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "(25年更新）A类小作文范文65篇.pdf",
+                "page": 33,
+                "left": -14,
+                "top": 840,
+                "zoom": 1.0714285714285716
+              },
+              "icon": "lucide-file-text",
+              "title": "(25年更新）A类小作文范文65篇"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -152,12 +173,23 @@
               "icon": "lucide-bookmark",
               "title": "书签"
             }
+          },
+          {
+            "id": "b008e30198b83310",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator",
+              "state": {},
+              "icon": "notebook-navigator",
+              "title": "笔记本导航器"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 237.50390243530273,
+    "collapsed": true
   },
   "right": {
     "id": "e78b2f7ce90b80ce",
@@ -253,25 +285,39 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:新建数据库": false
+      "bases:新建数据库": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "notebook-navigator:笔记本导航器": false
     }
   },
-  "active": "ededa87a065c6667",
+  "active": "83c90494e0ff1bd9",
   "lastOpenFiles": [
-    "有道写作小作文语料.md",
-    "雅思听力混淆同音词.md",
+    "小作文练习.md",
+    "(25年更新）A类小作文范文65篇.pdf",
+    "（25年更新） 大作文范文50篇.pdf",
     "writing 1 写作练习.md",
+    "默写.md",
+    "扫描全能王 2025-07-30 15.13.pdf",
     "Writing1 基础语料.md",
+    "近年高分范文推送22篇.pdf",
+    "IELST-WRITING2模板.pdf",
     "CPILS小作文模版.md",
+    "扫描全能王 2025-07-30 15.11.pdf",
+    "中文写作语料.pdf",
+    "writing2 语料.md",
+    "服务器 信息.md",
+    "openVPN服务端教程.md",
+    "服务器 信息_副本.md",
+    "雅思听力混淆同音词.md",
+    "有道写作小作文语料.md",
     "图片/Writing1 基础语料-1777004179354.webp",
     "图片/Writing1 基础语料-1777004127340.webp",
     "图片/Writing1 基础语料-1777004073532.webp",
@@ -283,19 +329,11 @@
     "图片/CPILS小作文模版-1777001794607.webp",
     "图片/CPILS小作文模版-1777001761589.webp",
     "图片/CPILS小作文模版-1777001754468.webp",
-    "writing2 语料.md",
     "图片/IMG_9267.heic",
     "图片/IMG_9159.heic",
     "图片/IMG_9086.heic",
-    "图片/IMG_9078.heic",
-    "图片",
-    "未命名文件夹",
     "Writing2 写作模版.md",
     "Rosel 写作模版.md",
-    "未命名 1.base",
-    "未命名.base",
-    "IMG_9267.heic",
-    "IMG_9159.heic",
     "创建链接.md",
     "欢迎.md"
   ]
