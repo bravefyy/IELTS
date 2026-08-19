@@ -6,20 +6,38 @@
       {
         "id": "00ca18caa9ae895c",
         "type": "tabs",
-        "dimension": 47.10401891252955,
+        "dimension": 42.02085004009623,
         "children": [
           {
             "id": "ce2bacd9c2dcc107",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Writing1 基础语料.md",
-                "mode": "source",
-                "source": false
+                "file": "（25年更新） 大作文范文50篇.pdf",
+                "page": 31,
+                "left": -24,
+                "top": 475,
+                "zoom": 0.6983193277310924
               },
-              "icon": "lucide-file",
-              "title": "Writing1 基础语料"
+              "icon": "lucide-file-text",
+              "title": "（25年更新） 大作文范文50篇"
+            }
+          },
+          {
+            "id": "b1ad83ed483807d8",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "大作文范文50 篇.pdf",
+                "page": 27,
+                "left": -23,
+                "top": 152,
+                "zoom": 0.6985294117647058
+              },
+              "icon": "lucide-file-text",
+              "title": "大作文范文50 篇"
             }
           },
           {
@@ -29,10 +47,10 @@
               "type": "pdf",
               "state": {
                 "file": "(25年更新）A类小作文范文65篇.pdf",
-                "page": 32,
-                "left": -17,
-                "top": 382,
-                "zoom": 0.946638655462185
+                "page": 137,
+                "left": -20,
+                "top": 24,
+                "zoom": 0.7987891331080038
               },
               "icon": "lucide-file-text",
               "title": "(25年更新）A类小作文范文65篇"
@@ -53,19 +71,19 @@
             }
           },
           {
-            "id": "9ff923cc30383593",
+            "id": "5f093f38954f3fde",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "（25年更新） 大作文范文50篇.pdf",
+                "file": "雅思写作实用词汇（十页纸）.pdf",
                 "page": 1,
-                "left": -17,
-                "top": 846,
-                "zoom": 0.9507275829998262
+                "left": -4,
+                "top": 509,
+                "zoom": 1.001562185043338
               },
               "icon": "lucide-file-text",
-              "title": "（25年更新） 大作文范文50篇"
+              "title": "雅思写作实用词汇（十页纸）"
             }
           }
         ],
@@ -74,7 +92,7 @@
       {
         "id": "933ef75f0dda9b01",
         "type": "tabs",
-        "dimension": 52.895981087470446,
+        "dimension": 57.979149959903765,
         "children": [
           {
             "id": "2398c0fbeb5d7879",
@@ -111,17 +129,89 @@
               "type": "pdf",
               "state": {
                 "file": "(25年更新）A类小作文范文65篇.pdf",
-                "page": 33,
-                "left": -14,
-                "top": 840,
-                "zoom": 1.0714285714285716
+                "page": 140,
+                "left": -15,
+                "top": 716,
+                "zoom": 1.0165569229678568
               },
               "icon": "lucide-file-text",
               "title": "(25年更新）A类小作文范文65篇"
             }
+          },
+          {
+            "id": "4e7e006fff18bdfb",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "（25年更新） 大作文范文50篇.pdf",
+                "page": 1,
+                "left": -15,
+                "top": 846,
+                "zoom": 1.0165569229678568
+              },
+              "icon": "lucide-file-text",
+              "title": "（25年更新） 大作文范文50篇"
+            }
+          },
+          {
+            "id": "ae275754e4f4784b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "大作文写作练习.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "大作文写作练习"
+            }
+          },
+          {
+            "id": "b0d00f6529ab9488",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "大作文范文50 篇.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "大作文范文50 篇"
+            }
+          },
+          {
+            "id": "39a191368465ed15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "大作文范文.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "大作文范文"
+            }
+          },
+          {
+            "id": "ddd82f1ff9c49fd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "大作文逻辑链.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "大作文逻辑链"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -153,7 +243,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#流程图",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -184,7 +274,8 @@
               "title": "笔记本导航器"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -267,20 +358,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing1 基础语料.md",
+                "file": "大作文草稿.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Writing1 基础语料 的大纲"
+              "title": "大作文草稿 的大纲"
+            }
+          },
+          {
+            "id": "408de9ace2e08059",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 769.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -295,46 +397,57 @@
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
-      "notebook-navigator:笔记本导航器": false
+      "notebook-navigator:笔记本导航器": false,
+      "copilot:Open Copilot Chat": false
     }
   },
-  "active": "83c90494e0ff1bd9",
+  "active": "ddd82f1ff9c49fd5",
   "lastOpenFiles": [
-    "小作文练习.md",
-    "(25年更新）A类小作文范文65篇.pdf",
-    "（25年更新） 大作文范文50篇.pdf",
+    "逻辑链.pdf",
+    "纯中文观点.pdf",
+    "纯中文观点.md",
+    "Daily Lessons with Simon, ex-IELTS examiner.pdf",
+    "逻辑链~.md",
+    "逻辑链.md",
+    "大作文逻辑链.md",
+    "大作文范文.md",
+    "Daily Lessons with Simon, ex-IELTS examiner.md",
+    "Simon 观点中英文翻译.pdf",
+    "Simon 观点中英文翻译.md",
+    "大作文写作introduction练习~.md",
+    "大作文写作练习.md",
+    "大作文写作introduction练习.md",
+    "大作文范文50 篇.pdf",
     "writing 1 写作练习.md",
+    "(25年更新）A类小作文范文65篇.pdf",
+    "雅思写作实用词汇（十页纸）.pdf",
+    "Test41-50.md",
+    "Test31-40.md",
+    "大作文范文50 篇.md",
+    "Test.md",
+    "未命名.md",
+    "（25年更新） 大作文范文50篇.pdf",
     "默写.md",
-    "扫描全能王 2025-07-30 15.13.pdf",
-    "Writing1 基础语料.md",
-    "近年高分范文推送22篇.pdf",
-    "IELST-WRITING2模板.pdf",
-    "CPILS小作文模版.md",
-    "扫描全能王 2025-07-30 15.11.pdf",
+    "小作文练习.md",
+    "大作文草稿.md",
     "中文写作语料.pdf",
-    "writing2 语料.md",
-    "服务器 信息.md",
-    "openVPN服务端教程.md",
-    "服务器 信息_副本.md",
-    "雅思听力混淆同音词.md",
-    "有道写作小作文语料.md",
+    "大作文范文1-10 篇.md",
+    "大作文范文41-50 篇.md",
+    "大作文范文31-40 篇.md",
+    "大作文范文21-30 篇.md",
+    "大作文范文11-20 篇.md",
+    "copilot/copilot-custom-prompts/Clip Web Page.md",
+    "copilot/copilot-custom-prompts",
+    "copilot",
     "图片/Writing1 基础语料-1777004179354.webp",
     "图片/Writing1 基础语料-1777004127340.webp",
     "图片/Writing1 基础语料-1777004073532.webp",
     "Writing1 基础语料-1777004179354.webp",
     "Writing1 基础语料-1777004127340.webp",
     "Writing1 基础语料-1777004073532.webp",
-    "speaking 语料.md",
     "图片/小作文模版-1777001584861.webp",
     "图片/CPILS小作文模版-1777001794607.webp",
     "图片/CPILS小作文模版-1777001761589.webp",
-    "图片/CPILS小作文模版-1777001754468.webp",
-    "图片/IMG_9267.heic",
-    "图片/IMG_9159.heic",
-    "图片/IMG_9086.heic",
-    "Writing2 写作模版.md",
-    "Rosel 写作模版.md",
-    "创建链接.md",
-    "欢迎.md"
+    "图片/CPILS小作文模版-1777001754468.webp"
   ]
 }
