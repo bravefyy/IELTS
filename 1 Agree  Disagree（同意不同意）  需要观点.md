@@ -65,6 +65,52 @@
 
 
 
+### 扩展词汇后
+
+It is widely acknowledged that the alignment between higher education and market demand has become a crucial topic in modern society. I completely agree with the assertion that universities should prioritize vocational skills training over abstract theories, as practical expertise directly enhances graduates' employability and fosters overall economic productivity.
+
+To begin with, prioritizing practical job skills serves as a primary driver for improving individual career prospects in an increasingly competitive labor market. Specifically, when tertiary institutions integrate hands-on technical training and industry-led internships into their academic curricula, students can acquire up-to-date competencies and practical problem-solving abilities. Consequently, this seamless transition enables fresh graduates to adapt swiftly to complex workplace requirements, eliminating retraining overheads for employers and ultimately reducing youth unemployment rates. For instance, technical institutes that incorporate real-world software engineering projects into their computer science programs consistently report higher job placement rates and competitive starting salaries for their alumni.
+
+Furthermore, the positive impact of career-oriented higher education is further magnified in terms of macroeconomic development. On a broader scale, supplying a workforce equipped with specialized technical expertise empowers local industries to innovate rapidly and streamline complex manufacturing processes. This industrial efficiency, in turn, boosts overall national economic output, enhances global competitiveness, and attracts substantial foreign direct investment. A notable example is Germany’s renowned dual education system, which directly bridges academic coursework with industrial manufacturing needs, serving as a primary engine for its robust economic resilience.
+
+In conclusion, I firmly reaffirm that higher education must pivot toward practical skills. This is mainly because pragmatic training equips individuals with immediate competitive advantages, while concurrently fueling sustainable national economic growth.
+
+### 扩充逻辑链深度解析 (Body 1 & Body 2)
+
+**Body 1 段落逻辑链分析：**
+
+- **应用逻辑链**：`PEEL 逻辑链` + `CCA (Cause-Condition-Action) 因果递进链` + `Cost-Benefit (雇主与学生双赢链)`
+- **逻辑递进推导**：
+  1. **Point (主题句)**：在竞争日益激烈的劳动力市场中，优先培养实用技能是提升个人职业前景的核心驱动力。
+  2. **Cause / Action (教学变革)**：高校将实操技术培训与行业主导的实习（industry-led internships）融入学术课程。
+  3. **Condition / Effect 1 (技能获取与无缝过渡)**：学生获得最新的行业能力与解决实际问题的能力，能够迅速适应复杂的工作要求。
+  4. **Cost-Benefit & Exemplification (雇主成本与例证)**：免去了雇主的二次培训开支（eliminating retraining overheads），降低青年失业率；以计算机专业引入真实软件工程项目为例，证明其提高了毕业生就职率与初始薪资竞争力（competitive starting salaries）。
+
+**Body 2 段落逻辑链分析：**
+
+- **应用逻辑链**：`CRTL (Cause-Reason-Result) 逻辑链` + `Multi-Dimensional (维度拓展链)`
+- **逻辑递进推导**：
+  1. **Point (主题句)**：导向型高等教育的积极影响在宏观经济发展维度被进一步放大。
+  2. **Cause / Reason (产业与创新维度)**：向市场输送具备专业技术能力的劳动力，能够赋能本地产业实现快速创新并精简复杂的生产流程。
+  3. **Result 1 (国家经济与全球竞争力)**：提升产业效率，进而增加国家总体经济产出、强化全球竞争力，并吸引大量外商直接投资（foreign direct investment）。
+  4. **Exemplification (国家级案例验证)**：以德国著名的双元制教育（renowned dual education system）为例，证明学术课程与工业制造需求的对接是驱动其强大经济韧性的核心引擎。
+
+### 中文翻译
+
+人们普遍认为，高等教育与市场需求之间的契合度已成为现代社会的一个关键议题。我完全同意大学应当优先考虑职业技能培训而非抽象理论的断言，因为实用专业知识能直接提升毕业生的就业能力，并促进整体经济生产力。
+
+首先，在竞争日益激烈的劳动力市场中，优先培养实用职业技能是提升个人职业前景的主要驱动力。具体而言，当高等院校将实操技术培训和行业主导的实习融入其学术课程时，学生可以掌握最新的行业能力和实际问题解决能力。因此，这种无缝过渡使应届毕业生能够迅速适应复杂的工作要求，为雇主清除了二次培训开支，并最终降低了青年失业率。例如，将真实软件工程项目融入计算机科学课程的技术院校，屡屡报告其校友拥有更高的就职率和极具竞争力的初始薪资。
+
+此外，以职业为导向的高等教育的积极影响在宏观经济发展维度被进一步放大。在更广泛的范围内，输送具备专业技术知识的劳动力能够赋能本地产业实现快速创新并精简复杂的制造流程。这种工业效率反过来又提升了国家总体经济产出，增强了全球竞争力，并吸引了大量外商直接投资。一个显著的例子是德国闻名遐迩的双元制教育体系，它直接将学术课程与工业制造需求相连接，成为其强大经济韧性的主要引擎。
+
+总之，我坚定地重申高等教育必须向实用技能倾斜。这主要是因为务实的培训赋予了个人即时的竞争优势，同时也为可持续的国家经济增长提供了源源不断的动力。
+
+
+
+
+
+
+
 ### **模板一：正向递进与社会凝聚逻辑模板**
 
 - **Task 2 Topic:**
@@ -213,6 +259,50 @@ In conclusion, I fully support government funding for cultural heritage and the 
 
 
 
+### 扩充词汇后
+
+The debate surrounding whether to impose a blanket prohibition on advanced Artificial Intelligence has drawn considerable public attention. I strongly disagree with this proposition, as restricting technological innovation not only stifles economic growth but also forfeits enormous opportunities to elevate public living standards.
+
+Primary among the reasons for my opposition is that continuous technological advancement is indispensable to long-term national competitiveness and industrial modernization. If governments forcibly halt AI research, active private investment in high-tech sectors will inevitably shrink, causing capital and top-tier technical talent to migrate elsewhere. As a result, domestic businesses will lose their primary engine for process automation, predictive analytics, and structural efficiency gains, which ultimately undermines the nation's total economic productivity. For instance, countries that artificially restrict AI innovation risk falling behind in the global digital supply chain, triggering structural industrial decline and prolonged economic stagnation.
+
+In addition, adopting such a heavy-handed prohibition would exert a detrimental effect on the optimization of essential public services and overall social welfare. Without adequate AI integration, critical public domains like healthcare systems, smart infrastructure, and urban transport networks would face severe operational constraints in processing massive datasets. This systemic limitation directly impedes breakthroughs in automated medical diagnosis, real-time logistics optimization, and emergency response, thereby precipitating public dissatisfaction and escalating administrative costs. A clear illustration of this can be seen in healthcare systems, where banning AI-assisted diagnostics would delay early disease detection, increase operational expenses, and lower patient survival rates.
+
+To summarize, I maintain that banning advanced AI development is deeply flawed. Governments should instead establish adaptive regulatory frameworks and re-skilling programs to manage job transition while unlocking tech potential.
+
+### 扩充逻辑链深度解析 (Body 1 & Body 2)
+
+**Body 1 段落逻辑链分析：**
+
+- **应用逻辑链**：`Counterfactual (假想/反事实推导链)` + `CCA (Cause-Condition-Action) 因果递进链` + `Multi-Dimensional (维度拓展链)`
+- **逻辑递进推导**：
+  1. **Point (主题句)**：提出反对全盘禁止 AI 的核心论点——技术进步对国家长期竞争力与产业现代化（industrial modernization）不可或缺。
+  2. **Counterfactual Condition (反事实假想起因)**：如果政府强行中止 AI 研究，高科技领域的民间私营投资（private investment）必然缩减，导致资本与顶尖技术人才（top-tier technical talent）流向海外。
+  3. **Mechanism / Effect 1 (企业与生产力维度)**：本土企业因此丧失流程自动化、预测性分析与结构性效率提升的核心引擎，最终削弱国家总体经济生产力。
+  4. **Multi-Dimensional Impact (宏观经济与供应链维度)**：人为限制 AI 创新的国家面临在全球数字供应链中落后的风险，引发结构性产业衰退与长期经济停滞（prolonged economic stagnation）。
+
+**Body 2 段落逻辑链分析：**
+
+- **应用逻辑链**：`CRTL (Cause-Reason-Result) 逻辑链` + `Multi-Dimensional (维度拓展链)` + `Cost-Benefit (公共成本与效能链)`
+- **逻辑递进推导**：
+  1. **Point (主题句)**：指出采取高压禁令将对关键公共服务（essential public services）优化和总体社会福祉产生不利影响。
+  2. **Cause / Reason (数据处理与公共服务维度)**：缺乏充足的 AI 整合，医疗体系、智慧基础设施和城市交通网络等关键公共领域在处理海量数据集时将面临严峻的运营制约。
+  3. **Result / Escalation (技术瓶颈与社会成本)**：这种系统性局限直接阻碍了自动化医疗诊断、实时物流优化（real-time logistics optimization）和应急响应的突破，引发公众不满并推高行政成本。
+  4. **Exemplification (医疗领域例证)**：以医疗体系为例，禁止 AI 辅助诊断将延误疾病早期发现、增加运营开支（increase operational expenses）并降低患者生存率。
+
+### 中文翻译
+
+关于是否应当全面禁止先进人工智能的争论引起了公众的广泛关注。我强烈反对这一主张，因为限制技术创新不仅会扼杀经济增长，还会使社会丧失提高公众生活水平的巨大机遇。
+
+我反对的主要原因之一在于，持续的技术进步对国家的长期竞争力和产业现代化不可或缺。如果政府强行中止人工智能研究，高科技领域的积极私营投资将不可避免地缩减，从而导致资本和顶尖技术人才流向海外。结果，本土企业将失去流程自动化、预测性分析和结构性效率提升的主要引擎，这最终会削弱国家的总体经济生产力。例如，人为限制技术创新的国家面临在全球数字供应链中落后的风险，从而引发结构性产业衰退和长期经济停滞。
+
+此外，采取这种高压禁令将对关键公共服务的优化和整体社会福祉产生不利影响。缺乏充足的人工智能整合，医疗体系、智慧基础设施和城市交通网络等关键公共领域在处理海量数据集时将面临严重的运营制约。这种系统性局限直接阻碍了自动化医疗诊断、实时物流优化和应急响应的突破，从而引发公众不满并推高行政成本。在医疗体系中可以清晰地看到这一点，禁止人工智能辅助诊断将延误疾病的早期发现、增加运营开支并降低患者的生存率。
+
+总之，我坚持认为禁止先进人工智能的发展是存在深刻缺陷的。政府应当建立具有适应性的监管框架和再培训计划，在释放技术潜力的同时妥善管理岗位转型。
+
+
+
+
+
 ### 模版二完全不同意
 
 **Some people believe that governments should prioritize funding for economic development over cultural heritage protection. To what extent do you agree or disagree?**
@@ -320,6 +410,48 @@ In conclusion, while governments must ensure adequate funding for practical publ
 
 
 
+### 扩展词汇后
+
+It is undeniable that economic expansion plays a pivotal role in national prosperity. While I concede that pursuing economic growth can bring substantial revenues and employment, I firmly maintain that over-reliance on numerical output while ignoring sustainable development and social equity is deeply flawed.
+
+On the one hand, there is no denying that a robust economy serves as the essential foundation for societal progress. Driven by market activities, economic growth can bring more employment opportunities, increase national income, and enhance the country's international competitiveness. Specifically, when businesses expand, they absorb more surplus labor, thereby increasing average household disposable income and boosting public tax revenue for infrastructure projects. For instance, rapidly expanding emerging economies like India have successfully leveraged industrial growth to lift millions of citizens out of absolute poverty, modernize public utilities, and boost overall household incomes.
+
+On the other hand, pursuing GDP growth unconditionally can trigger severe ecological and societal crises. If industrialization proceeds without stringent environmental safeguards, over-reliance on economic growth may lead to severe environmental problems, air pollution, and rapid natural resource depletion. Furthermore, if the benefits of economic growth are not evenly distributed across social strata, uneven income distribution may lead to social division, severe wealth gaps, and public dissatisfaction, thereby threatening long-term social stability. A clear case in point is seen during early unregulated expansion in many industrialized nations, where heavy carbon emissions caused severe pollution while extreme wealth gaps triggered public strikes and civil unrest.
+
+In conclusion, while economic growth provides necessary financial resources for a nation, overemphasizing it at the expense of ecological balance and public welfare is counterproductive. Therefore, governments must adopt a holistic approach that translates economic gains into sustainable development and long-term well-being for future generations.
+
+### 扩充逻辑链深度解析 (Body 1 & Body 2)
+
+**Body 1 段落逻辑链分析：**
+
+- **应用逻辑链**：`CCA (Cause-Condition-Action) 因果递进链` + `Cost-Benefit (国家与家庭双重收益链)`
+- **逻辑递进推导**：
+  1. **Point (主题句)**：稳健的经济是社会进步的基础，能带来就业、增加国家收入与国际竞争力。
+  2. **Cause / Action (企业扩张与劳动力吸收)**：市场活动驱动企业拓展，吸收更多剩余劳动力（surplus labor）。
+  3. **Condition / Effect 1 (家庭与财政收益)**：直接推高平均家庭可支配收入（household disposable income），并增加用于基础设施建设（infrastructure projects）的公共税收。
+  4. **Exemplification (新兴经济体例证)**：以印度为例，工业增长不仅帮助数百万公民脱贫，还推进了公共设施现代化（modernize public utilities），实现了经济效益最大化。
+
+**Body 2 段落逻辑链分析：**
+
+- **应用逻辑链**：`PEEL 逻辑链` + `Multi-Dimensional (维度拓展链：生态 + 社会分化)`
+- **逻辑递进推导**：
+  1. **Point (主题句)**：无条件追求 GDP 增长会引发严重的生态与社会危机。
+  2. **Dimension 1 (环境与资源衰退)**：若缺乏严格的环境防护（environmental safeguards），过度依赖经济增长将导致严重环境问题、空气污染与资源快速枯竭。
+  3. **Dimension 2 (阶级分化与社会稳定)**：若收益未能公平惠及各个社会阶层（social strata），不均的收入分配将导致社会分化、严峻的贫富差距（severe wealth gaps）与公众不满，威胁长期社会稳定。
+  4. **Exemplification (历史反面例证)**：以工业化国家早期无序扩张为例，高碳排放引发严重污染，而极端的财富差距则诱发罢工与社会动荡（civil unrest）。
+
+### 中文翻译
+
+不可否认，经济扩张在国家繁荣中发挥着举足轻重的作用。虽然我承认追求经济增长可以带来丰厚的财政收入和就业机会，但我坚定地认为，过度依赖数值产出而忽视可持续发展和社会公平是存在深刻缺陷的。
+
+一方面，不可否认的是，稳健的经济是社会进步的必要基础。在市场活动的推动下，经济增长可以带来更多的就业机会，增加国家收入，并增强国家的国际竞争力。具体而言，当企业扩张时，它们会吸收更多的剩余劳动力，从而提高平均家庭可支配收入，并增加用于基础设施建设的公共税收收入。例如，像印度这样快速扩张的新兴经济体已成功利用工业增长使数百万公民摆脱绝对贫困，推进公共设施现代化，并提升了整体家庭收入。
+
+另一方面，无条件地追求国内生产总值（GDP）增长可能会引发严重的生态和社会危机。如果在没有严格环境保护措施的情况下推进工业化，过度依赖经济增长可能会导致严重的环境问题、空气污染和自然的快速资源枯竭。此外，如果经济增长的红利不能在各个社会阶层之间均匀分配，不均匀的收入分配可能会导致社会分化、严重的贫富差距和公众不满，从而威胁长期的社会稳定。一个明确的例子体现在许多工业化国家早期的无序扩张时期，当时大量的碳排放造成了严重污染，而极端的财富差距则引发了公众罢工和社会动荡。
+
+总之，虽然经济增长为国家提供了必要的财政资源，但以牺牲生态平衡和公众福祉为代价过度强调经济增长是适得其反的。因此，政府必须采取全面统筹的方法，将经济成果转化为可持续发展和后代人的长期福祉。
+
+
+
 ### **模板三：正反辩证与经济/文化协同逻辑模板**
 
 - **Task 2 Topic:**
@@ -365,6 +497,64 @@ In conclusion, while governments must ensure adequate funding for practical publ
 > 例如，韩国对其电影和音乐产业的系统性支持，在向全球输出其文化价值观的同时，也创造了数十亿美元的出口收入和旅游效益。
 >
 > 然而，政府必须保持平衡，以确保过度商业化不会稀释这些文化表达的艺术本真性。最终，繁荣的艺术领域能使经济进步与文化保护并行不悖。
+
+
+
+### 扩展词汇后
+
+From a societal standpoint, arts and literature should be viewed not merely as non-profit cultural assets, but as strategic drivers of social harmony and economic growth. This essay will examine how fostering the creative sector yields significant, multi-dimensional cultural and financial benefits for modern societies.
+
+On the one hand, arts and literature are vital for expressing cultural values, belief systems, and historical memory, and actively engaging with the arts can foster a strong sense of community and shared identity among diverse populations. This vital ideological function strengthens social solidarity, encourages cross-cultural empathy, and actively prevents cultural marginalization in an increasingly fragmented globalized world. When governments allocate public funds to support public art galleries, international literary festivals, and historical heritage restoration, citizens gain accessible public spaces for meaningful civic dialogue, intellectual enrichment, and collective reflection, which ultimately reinforces long-term societal stability and civic harmony.
+
+On the other hand, the creative sector possesses immense economic vitality, as the arts industry contributes substantially to macro-economic performance through regional tourism, job creation, and international cultural exports. Investing in creative infrastructure attracts high-spending international visitors, stimulates local hospitality and retail sectors, and generates skilled employment opportunities for local artists, performers, and creative technicians. For example, South Korea’s systematic, long-term state support for its film, television drama, and music industries has exported its traditional and contemporary cultural values worldwide while generating billions of dollars in export revenue, intellectual property licensing, and inbound tourism.
+
+However, governments must strike a delicate balance to ensure that commercialization does not dilute the artistic integrity, original creativity, or historical authenticity of these cultural expressions. Ultimately, a thriving, well-funded arts sector successfully harmonizes economic progress with cultural preservation, ensuring that national heritage remains both spiritually enriching and economically productive for future generations.
+
+### 扩充逻辑链深度解析 (Body 1 & Body 2)
+
+**Body 1 段落逻辑链分析：**
+
+- **应用逻辑链**：`PEEL 逻辑链` + `Multi-Dimensional (社会凝聚、跨文化共情与治理维度)`
+- **逻辑递进推导**：
+  1. **Point (主题句)**：艺术与文学对表达文化价值、信仰体系（belief systems）和历史记忆至关重要，积极参与艺术能在多元群体中建立强烈的社区感与共同认同。
+  2. **Explanation / Cause (意识形态与社会功能)**：这一关键的意识形态功能增强了社会团结（social solidarity），促进了跨文化共情（cross-cultural empathy），并在日益碎片化的全球化世界中防止文化边缘化。
+  3. **Action / Result (公共投资与社会稳定)**：当政府拨款支持公共艺术馆、国际文学节和历史遗产修复时，公民获得了包容性的公共空间来进行有意义的公民对话、精神充实（intellectual enrichment）和集体反思，最终巩固了长期社会稳定与公民和谐（civic harmony）。
+
+**Body 2 段落逻辑链分析：**
+
+- **应用逻辑链**：`CCA (Cause-Condition-Action) 因果递进链` + `Cost-Benefit (产业经济、高消费旅游与文化输出链)`
+- **逻辑递进推导**：
+  1. **Point (主题句)**：创意部门拥有巨大的经济活力，艺术产业通过区域旅游、创造就业和国际文化出口对宏观经济表现做出了实质性贡献。
+  2. **Mechanism / Action (基建投资与经济拉动)**：投资创意基础设施能吸引高消费的国际游客（high-spending international visitors），刺激本地餐饮零售业（local hospitality and retail sectors），并为本地艺术家、表演者与创意技术人员创造专业就业机会。
+  3. **Exemplification (韩国文化产业案例验证)**：以韩国对影视和音乐产业的系统性长期国家支持为例，证明其在向全球输出传统与当代文化价值的同时，创造了数十亿美元的出口收入、知识产权许可（intellectual property licensing）和入境旅游收益。
+
+### 中文翻译
+
+从社会角度来看，艺术和文学不应仅仅被视为非营利性的文化资产，而应被视为社会和谐与经济增长的战略驱动力。本文将探讨培养创意部门如何为现代社会带来显著的、多维度的文化和财政效益。
+
+一方面，艺术和文学对于表达文化价值、信仰体系和历史记忆至关重要，积极参与艺术可以在多元人口中培养强烈的社区意识和共同的身份认同。这种关键的意识形态功能增强了社会团结，促进了跨文化共情，并在日益碎片化的全球化世界中积极防止了文化边缘化。当政府拨出公共资金支持公共美术馆、国际文学节和历史遗产修复时，公民获得了包容性的公共空间来进行有意义的公民对话、精神充实和集体反思，这最终巩固了长期的社会稳定与公民和谐。
+
+另一方面，创意部门拥有巨大的经济活力，因为艺术产业通过区域旅游、创造就业机会和国际文化出口对宏观经济表现做出了实质性贡献。投资创意基础设施能够吸引高消费的国际游客，刺激本地餐饮住宿和零售行业，并为本地艺术家、表演者和创意技术人员创造专业就业机会。例如，韩国对本国电影、电视连续剧和音乐产业的系统性、长期国家支持，在向全球输出其传统与当代文化价值的同时，创造了数十亿美元的出口收入、知识产权许可和入境旅游收益。
+
+然而，政府必须保持微妙的平衡，以确保过度商业化不会稀释这些文化表达形式的艺术完整性、原始创造力或历史真实性。最终，一个繁荣且资金充足的艺术部门成功地将经济进步与文化保护融为一体，确保国家遗产在为后代带来精神充实的同时，也能具备经济生产力。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## 再次生成
 
@@ -539,6 +729,60 @@ In conclusion, I firmly support offering free, round-the-clock public transport.
 
 总之，我坚决支持提供免费、全天候的公共交通。这一政策有效地激励了通勤者放弃私家车，同时满足了持续的城市流动性需求，最终创造了一个更顺畅、更高效的交通网络。
 
+
+
+
+
+### 扩充词汇后
+
+The surging number of private vehicles in modern cities has exacerbated traffic congestion, leading many to propose round-the-clock free public transportation as an absolute solution. I completely agree with this proposal, as it directly reduces private car usage and addresses critical late-night travel demands.
+
+Primarily, eliminating transit fares removes the primary financial barrier for everyday urban commuters. When buses, tram networks, and urban rail systems become entirely cost-free, a significant proportion of drivers will naturally shift to public transit to save on fuel, highway toll fees, and escalating parking expenses. This massive modal shift drastically reduces the total volume of private vehicles on urban roads, thereby alleviating severe peak-hour gridlocks and diminishing toxic tailpipe emissions. For instance, several European municipalities that introduced zero-fare public bus services reported an immediate, substantial drop in inner-city private car traffic during peak commuting hours.
+
+Furthermore, providing continuous 24/7 service resolves the crucial issue of off-peak mobility and workforce transportation. Shift workers, healthcare professionals, nightlife patrons, and late-night travelers often rely on personal cars or private taxis due to the traditional absence of late-night buses. A non-stop public transit system caters directly to these nocturnal travel needs, preventing localized road overcrowding during non-standard hours and ensuring consistent, safe traffic flow throughout the night. In major metropolitan hubs like London, the strategic introduction of night subway services effectively dispersed night-time traffic congestion, lowered drunk-driving risks, and enhanced urban mobility in central commercial districts.
+
+In conclusion, I firmly support offering free, round-the-clock public transport. This policy effectively incentivizes commuters to abandon private cars while fulfilling continuous urban mobility needs, ultimately creating a smoother, cleaner, and far more efficient transportation network.
+
+### 扩充逻辑链深度解析 (Body 1 & Body 2)
+
+**Body 1 段落逻辑链分析：**
+
+- **应用逻辑链**：`Cost-Benefit (出行成本与替代效应链)` + `CCA (Cause-Condition-Action) 因果递进链`
+- **逻辑递进推导**：
+  1. **Point (主题句)**：消除公共交通票价从根本上清除了日常城市通勤者（everyday urban commuters）的主要财务障碍。
+  2. **Cause / Cost-Benefit (成本对比与行为改变)**：当公交、有轨电车网络（tram networks）与城市轨道交通完全免费时，大量驾驶员为了节省燃料、公路通行费（highway toll fees）和不断攀升的停车费，必然自然转向公共交通。
+  3. **Condition / Action (交通结构转型与环境收益)**：这种大规模的出行模式转变（massive modal shift）大幅减少了城市道路上的私家车总量，从而缓解了高峰期严重拥堵并减少了有毒尾气排放（toxic tailpipe emissions）。
+  4. **Exemplification (城市案例验证)**：以推出零票价公共公交服务的欧洲城市为例，证明其在通勤高峰期有效降低了市中心的私家车流量。
+
+**Body 2 段落逻辑链分析：**
+
+- **应用逻辑链**：`PEEL 逻辑链` + `Multi-Dimensional (维度拓展：医疗/轮班人群、安全与夜间经济)`
+- **逻辑递进推导**：
+  1. **Point (主题句)**：提供全天候 24/7 连续服务解决了非高峰期流动性与劳动力运输的关键问题。
+  2. **Reason / Multi-Dimensional (夜间群体与安全维度)**：轮班工人、医疗专业人员（healthcare professionals）、夜生活顾客与深夜出行者因传统深夜公交的缺失而依赖私家车或出租车。
+  3. **Result / Effect (全时段流量分流与安全提升)**：不间断的公共交通系统直接满足了这些夜间出行需求，防止了非标准时段的局部道路过载，确保全夜间顺畅安全的交通流量。
+  4. **Exemplification (伦敦夜铁多维案例)**：以伦敦战略性引入夜间地铁为例，证明其有效分散了中心商业区（central commercial districts）的夜间交通拥堵、降低了酒驾风险（lowered drunk-driving risks），并提升了城市流动性。
+
+### 中文翻译
+
+现代城市中私家车数量的剧增加剧了交通拥堵，促使许多人提出将全天候免费公共交通作为绝对解决方案。我完全同意这一提议，因为它能直接减少私家车使用并满足关键的深夜出行需求。
+
+首先，消除交通票价清除了日常城市通勤者的主要财务障碍。当公交车、有轨电车网络和城市轨道交通系统变得完全免费时，很大一部分司机自然会转向公共交通，以节省燃料、公路通行费和不断攀升的停车费用。这种大规模的出行模式转变大幅减少了城市道路上的私家车总量，从而缓解了严重的高峰期拥堵，并减少了有毒尾气排放。例如，几个推出了零票价公共公交服务的欧洲城市报告称，在通勤高峰期，市中心私家车流量立即大幅下降。
+
+此外，提供连续 24/7 的全天候服务解决了非高峰期流动性和劳动力运输的关键问题。由于传统深夜公交的缺失，轮班工人、医疗专业人员、夜生活顾客和深夜出行者往往依赖私家车或私人出租车。不间断的公共交通系统直接迎合了这些夜间出行需求，防止了非标准时段内局部道路的过度拥挤，并确保了整个夜间一致、安全的交通流量。在像伦敦这样的主要国际大都市，战略性地引入夜间地铁服务有效分散了夜间交通拥堵，降低了酒驾风险，并增强了中心商业区的城市流动性。
+
+总之，我坚定地支持提供免费、全天候的公共交通。这一政策有效地激励了通勤者放弃私家车，同时满足了持续的城市流动性需求，最终构建了一个更顺畅、更清洁且高效得多的交通网络。
+
+
+
+
+
+
+
+
+
+
+
 #### 范文 2：完全不同意 (Totally Disagree)
 
 **Prompt:**
@@ -566,6 +810,53 @@ In conclusion, I entirely reject the idea that increasing fuel prices is the opt
 此外，将提高燃料价格称为“最佳”方法忽略了清洁能源创新和政府法规远为巨大的作用。污染的根源是我们对化石燃料的依赖，这不能仅靠让石油变得昂贵来解决。相反，政府应该大力补贴可再生能源研究，并在制造业中实施严格的碳排放标准。一个显著的例子是北欧国家，那里对风能和太阳能的大规模投资以及电动汽车的强制指令，在不惩罚加油站消费者的前提下实现了碳排放的大幅减少。
 
 总之，我完全否定提高燃料价格是生态危机最佳补救办法的观点。主要焦点应当转移到扩大可再生能源基础设施和实施严格的企业环保合规上。
+
+
+
+### 扩充词汇后
+
+Escalating environmental degradation has prompted discussions on effective countermeasures, with some arguing that raising fuel prices represents the single best approach. I completely disagree with this assertion, as it imposes an unsustainable financial burden on ordinary citizens while neglecting fundamental technological and policy solutions.
+
+Primarily, artificially inflating fuel costs places a heavy tax on lower-income households without guaranteed environmental benefits. Fuel is an inelastic necessity for daily commuting, essential logistics, and residential heating; simply hiking its price forces working-class families to spend a disproportionate share of their income on basic living expenses rather than naturally reducing their energy consumption. For instance, when federal taxes on diesel were increased in France, it triggered widespread social unrest and economic disruption rather than driving a meaningful, voluntary shift towards eco-friendly transportation habits among everyday citizens.
+
+Furthermore, labeling fuel price hikes as the "best" method overlooks the far more impactful role of clean energy innovation and structural government regulations. The root cause of global pollution is our systemic reliance on fossil fuels, which cannot be solved merely by making petroleum expensive for individual consumers. Instead, governments should heavily subsidize renewable energy research, expand green public transit networks, and enforce strict carbon emission standards on heavy manufacturing industries. A notable example is seen in Nordic countries, where massive public investments in wind and solar power, alongside legal mandates for electric vehicles, yielded drastic carbon reductions without unnecessarily penalizing commuters at the pump.
+
+In conclusion, I entirely reject the idea that increasing fuel prices is the optimal remedy for ecological crises. The primary focus should instead be shifted towards expanding renewable energy infrastructure and implementing strict corporate environmental compliance.
+
+### 扩充逻辑链深度解析 (Body 1 & Body 2)
+
+**Body 1 段落逻辑链分析：**
+
+- **应用逻辑链**：`CRTL (Cause-Reason-Result) 逻辑链` + `Dilemma / Trade-off (刚性需求与生活负担权衡链)`
+- **逻辑递进推导**：
+  1. **Point (主题句)**：提出了人为提高燃料成本会在无确定环保收益的情况下给低收入家庭施加沉重负担。
+  2. **Cause / Reason (刚性需求与收入影响)**：燃料作为日常通勤、基础物流（essential logistics）与采暖的刚性必需品（inelastic necessity），单纯提价只会迫使工薪阶层将不成比例的收入支出于基本生活，而无法自然减少能源消耗。
+  3. **Result / Exemplification (社会影响与反面例证)**：以法国提高柴油税为例，说明该举措并未推动民众自发转向环保出行习惯，反而引发了广泛的社会动荡（social unrest）与经济失序（economic disruption）。
+
+**Body 2 段落逻辑链分析：**
+
+- **应用逻辑链**：`Direct Refutation (让步反驳链)` + `Multi-Dimensional (维度拓展链：供给侧 + 监管侧)` + `Cost-Benefit (宏观效能链)`
+- **逻辑递进推导**：
+  1. **Point (主题句)**：反驳将燃料提价冠以“最佳”方法的说法，指出其忽视了清洁能源创新与结构性政府监管（structural government regulations）更具深远影响的作用。
+  2. **Refutation / Mechanism (根源分析)**：全球污染的根源是对化石燃料的系统性依赖，单靠提高油价无法解决根本问题。
+  3. **Multi-Dimensional Action (供给侧与监管拓展)**：政府应大幅补贴可再生能源研发、扩建绿色公共交通网络（green public transit networks），并对重工业施加严格的碳排放标准。
+  4. **Cost-Benefit / Exemplification (正向例证与效益)**：以北欧国家为例，通过风能太阳能投资与电动汽车法定指令（legal mandates），在不额外惩罚普通通勤者的前提下实现了剧烈的碳减排。
+
+### 中文翻译
+
+日益加剧的环境恶化引发了关于有效应对措施的讨论，一些人主张提高燃料价格代表了唯一的最佳方法。我完全不同意这种断言，因为它在忽视根本性技术和政策解决方案的同时，给普通公民施加了不可持续的财务负担。
+
+首先，人为提高燃料成本会在没有确定环保收益的情况下，给低收入家庭施加沉重的税收负担。燃料是日常通勤、基础物流和住宅采暖的刚性必需品；单纯提高其价格会迫使工薪阶层家庭将不成比例的收入支出于基本生活费用，而不是自然地减少其能源消耗。例如，当法国提高柴油联邦税时，它引发了广泛的社会动荡和经济失序，而不是推动普通公民自发地转向环保交通习惯。
+
+此外，将燃料提价冠以“最佳”方法忽视了清洁能源创新和结构性政府监管更具深远影响的作用。全球污染的根源在于我们对化石燃料的系统性依赖，这仅仅通过让普通消费者觉得石油昂贵是无法解决的。相反，政府应当大力补贴可再生能源研究，扩建绿色公共交通网络，并在重工业领域实施严格的碳排放标准。一个显著的例子体现在北欧国家，当地对风能和太阳能的大规模公共投资，加上对电动汽车的法定指令，在没有在加油站不必要地惩罚通勤者的前提下，实现了剧烈的碳减排。
+
+总之，我完全拒绝认为提高燃料价格是生态危机最佳补救措施的观点。主要的焦点应当转向扩大可再生能源基础设施和实施严格的企业环保合规。
+
+
+
+
+
+
 
 #### 范文 3：部分同意 / 双边辩证 (Partially Agree / Qualified Agreement)
 
@@ -595,6 +886,56 @@ In conclusion, although equipping students with practical employment skills is u
 
 总之，尽管赋予学生实用的就业技能对于做好工作准备无疑非常重要，但我坚持认为学术知识仍然是高等教育不可替代的支柱。一种兼顾理论严谨性与实践训练的权衡辩证方法对于培养个人职业寿命和社会创新都至关重要。
 
+
+
+
+
+### 扩充词汇后
+
+The evolving modern job market has sparked intense debate over the core purpose of higher education. While I acknowledge that integrating career-oriented training is beneficial for graduates' immediate job prospects, I only agree with this view to a limited extent, as overemphasizing vocational skills threatens foundational scientific research.
+
+On the one hand, there are undeniable grounds to support incorporating practical skills into university curricula. As industries automate rapidly, employers increasingly demand graduates who possess software proficiency, advanced data analysis, and specialized technical expertise. When universities align their academic coursework with practical industry needs, students acquire market-relevant skills and secure gainful employment more rapidly after graduation, thereby boosting overall youth employment rates. For example, engineering programs that offer mandatory coding bootcamps and industry-sponsored internships enable students to seamlessly transition into high-paying technological roles.
+
+On the other hand, prioritizing short-term vocational skills at the expense of theoretical knowledge is fundamentally flawed. Core academic disciplines such as mathematics, philosophy, and theoretical physics foster critical thinking, logical reasoning, and innovative problem-solving capabilities. Without a deep comprehension of foundational theory, students lack the intellectual adaptability required to navigate long-term career shifts and technological disruptions. A clear illustration is modern artificial intelligence; breakthrough algorithms were developed by researchers deeply grounded in complex theoretical mathematics rather than individuals trained merely in basic vocational coding.
+
+In conclusion, although equipping students with practical employment skills is undeniably important for workforce readiness, I insist that academic knowledge remains the irreplaceable pillar of higher education. A nuanced approach that balances theoretical rigor with hands-on training is essential for fostering both individual career longevity and societal innovation.
+
+### 扩充逻辑链深度解析 (Body 1 & Body 2)
+
+**Body 1 段落逻辑链分析：**
+
+- **应用逻辑链**：`CCA (Cause-Condition-Action) 因果递进链` + `Cost-Benefit (产学结合效益链)`
+- **逻辑递进推导**：
+  1. **Point (主题句)**：提出了支持将实用技能引入大学课程的不可否认的依据。
+  2. **Cause / Action (市场需求与课程对齐)**：随着产业快速自动化，雇主日益青睐具备软件熟练度、高级数据分析（advanced data analysis）与专业技术能力的毕业生。当高校调整课程以对接实际产业需求时，学生能够掌握与市场匹配的技能。
+  3. **Condition / Effect (就业率与过渡体验)**：学生毕业后能更快获得有报酬的职位（gainful employment），从而提升总体青年就业率。
+  4. **Exemplification (结合实习的例证)**：以工程专业提供强制性编程训练营和企业资助的实习（industry-sponsored internships）为例，证明其能帮助学生无缝过渡到高薪技术岗位（high-paying technological roles）。
+
+**Body 2 段落逻辑链分析：**
+
+- **应用逻辑链**：`Counterfactual (假想/反事实推导链)` + `Direct Refutation (让步反驳链)` + `Multi-Dimensional (思维能力与长远发展维度)`
+- **逻辑递进推导**：
+  1. **Point (主题句)**：反驳过分强调职业技能的观点，指出以牺牲理论知识为代价优先考虑短期职业技能（short-term vocational skills）存在根本缺陷。
+  2. **Mechanism / Reason (核心理论价值)**：数学、哲学和理论物理等基础学科能培养批判性思维、逻辑推理与创新解题能力。
+  3. **Counterfactual Condition (反事实推导)**：缺乏对基础理论的深刻理解（comprehension of foundational theory），学生将缺乏应对长期职业转变和技术变革（technological disruptions）所需的智力适应力（intellectual adaptability）。
+  4. **Exemplification (突破性创新例证)**：以现代人工智能为例，证明突破性算法是由深谙复杂理论数学的学者开发的，而非仅接受过基础职业编程训练的人员。
+
+### 中文翻译
+
+不断演变的现代劳动力市场引发了关于高等教育核心目的的激烈讨论。虽然我承认融入以职业为导向的培训有利于毕业生即时的就业前景，但我仅在有限程度上同意这一观点，因为过度强调职业技能会威胁到基础科学研究。
+
+一方面，支持将实用技能融入大学课程有着不可否认的理由。随着各行各业的快速自动化，雇主日益需要具备软件熟练度、高级数据分析和专业技术知识的毕业生。当大学将其学术课程与实际产业需求相对接时，学生能掌握与市场匹配的技能，并在毕业后更快地获得有报酬的职位，从而提高总体青年就业率。例如，提供强制性编程训练营和企业资助实习的工程项目，使学生能够无缝过渡到高薪的技术岗位。
+
+另一方面，以牺牲理论知识为代价优先考虑短期职业技能从根本上讲是有缺陷的。数学、哲学和理论物理等核心学术学科培养了批判性思维、逻辑推理和创新解题能力。缺乏对基础理论的深刻理解，学生就缺乏应对长期职业转变和技术变革所需的智力适应力。现代人工智能就是一个清晰的例证；突破性的算法是由深谙复杂理论数学的研究人员开发的，而不是由仅接受过基础职业编程训练的人员开发的。
+
+总之，虽然赋予学生实用的就业技能对于劳动力准备就绪无疑很重要，但我坚持认为学术知识仍然是高等教育不可替代的支柱。兼顾理论严谨性与实操训练的审慎方法，对于培养个人职业寿命和推动社会创新都至关重要。
+
+
+
+
+
+
+
 #### 范文 4：平衡观点 (Balanced View)
 
 **Prompt:**
@@ -622,3 +963,49 @@ In conclusion, economic growth and environmental protection are not mutually exc
 然而，同样重要的是环境保护，因为无节制的经济扩张不可避免地引发资源枯竭和严重污染。如果工业制造业在没有监管监督的情况下继续发展，上升的碳排放将加速气候变化，造成破坏人类生存的不可逆生态破坏。一个显著的例子是重工业化地区经历的严重空气污染，这引发了巨大的医疗开支并抑制了长期经济生产力。
 
 总之，经济增长与环境保护并非互斥，而是深刻互联的。政府必须转向绿色经济——利用税收优惠和可再生技术——以确保经济收益发生在可持续的生态限制之内，而不是完全停止经济进步。
+
+
+
+
+
+
+
+### 扩展词汇后
+
+The conflict between national economic expansion and ecological preservation has generated severe controversy. In my opinion, stopping economic growth completely is an unviable strategy; instead, a balanced approach combining sustainable green growth with strict environmental conservation is essential for long-term societal progress.
+
+To begin with, economic development remains the indispensable primary engine for poverty alleviation, infrastructure modernization, and long-term social welfare enhancement. Suppressing economic activities arbitrarily would inevitably lead to widespread business closures, severe structural job losses, and skyrocketing unemployment rates, ultimately trapping vulnerable populations in extreme poverty and crippling public services. For instance, developing nations across East Asia relied heavily on rapid industrial expansion and international trade to lift hundreds of millions of citizens out of absolute poverty, generating substantial public tax revenues that were subsequently reinvested in public healthcare networks, modern sanitation systems, and clean drinking water infrastructure to elevate general living standards.
+
+Equally important, however, is aggressive environmental protection, as unrestrained economic expansion inevitably precipitates acute natural resource depletion, irreversible biodiversity loss, and severe global atmospheric pollution. If industrial manufacturing continues to advance without stringent regulatory oversight, rising carbon emissions will accelerate climate change, causing catastrophic ecological destruction that ultimately threatens human survival and global agricultural security. A prominent example is the severe industrial smog experienced by heavily urbanized manufacturing regions, which incurs massive public medical expenditures, degrades citizens' average life expectancy, and severely dampens long-term economic productivity.
+
+In conclusion, economic growth and environmental protection are not mutually exclusive but rather deeply interconnected pillars of stability. Rather than halting economic progress altogether, governments must transition towards a green economy—utilizing tax incentives, carbon pricing, and renewable technologies—to ensure that economic gains occur strictly within sustainable ecological limits.
+
+### 扩充逻辑链深度解析 (Body 1 & Body 2)
+
+**Body 1 段落逻辑链分析：**
+
+- **应用逻辑链**：`Counterfactual (反事实推导链)` + `CCA (Cause-Condition-Action) 因果递进链` + `Cost-Benefit (民生、基建与公共服务链)`
+- **逻辑递进推导**：
+  1. **Point (主题句)**：经济发展依然是消除贫困、基础设施现代化与长期社会福祉提升的核心 primary 引擎。
+  2. **Counterfactual Condition (反事实假想)**：若任意抑止经济活动，将引发企业倒闭、结构性失业与失业率飙升，瘫痪公共服务（crippling public services），使脆弱群体陷入极端贫困。
+  3. **Action / Cause (东亚工业化与国际贸易)**：东亚发展中国家依赖快速工业扩张与国际贸易（international trade），成功使数亿人摆脱绝对贫困。
+  4. **Cost-Benefit / Result (财政收益再投资)**：工业化创造了巨额公共税收收入，进而重新投资于医疗网络、现代卫生系统（modern sanitation systems）与饮用水基础设施，切实提升了全民生活标准。
+
+**Body 2 段落逻辑链分析：**
+
+- **应用逻辑链**：`PEEL 逻辑链` + `CRTL (Cause-Reason-Result) 逻辑链` + `Multi-Dimensional (生态、灾难后果与经济损失维度)`
+- **逻辑递进推导**：
+  1. **Point (主题句)**：强调积极的环境保护同等重要，无节制的经济扩张不可避免地加速急性自然资源枯竭、不可逆的生物多样性丧失与严重全球大气污染（global atmospheric pollution）。
+  2. **Cause / Escalation (监管缺失与气候灾难)**：缺乏严格监管的工业制造和上升的碳排放将加速气候变化，造成灾难性且威胁人类生存与全球农业安全的生态破坏。
+  3. **Result / Exemplification (多维损失例证)**：以重工业化制造地区的工业雾霾为例，证明环境恶化不仅推高公共医疗支出、缩短公民平均预期寿命，还会严重削弱（severely dampens）长期经济生产力。
+
+### 中文翻译
+
+国家经济扩张与生态保护之间的冲突引发了严重的争议。在我看来，完全停止经济增长是一种不可行的策略；相反，将可持续的绿色增长与严格的环境保护相结合的平衡方法，对于长期的社会进步至关重要。
+
+首先，经济发展依然是消除贫困、基础设施现代化和长期社会福祉提升不可或缺的核心引擎。任意抑止经济活动不可避免地会导致广泛的企业倒闭、严重的结构性失业和飙升的失业率，最终使脆弱群体陷入极端贫困并瘫痪公共服务。例如，东亚各地的发展中国家严重依赖快速的工业扩张和国际贸易，使数亿公民摆脱了绝对贫困，并创造了巨额的公共税收收入，这些收入随后被重新投资于公共医疗网络、现代卫生系统和清洁饮用水基础设施，从而提高了总体生活标准。
+
+然而，同等重要的是积极的环境保护，因为无节制的经济扩张不可避免地会加速急性自然资源枯竭、不可逆的生物多样性丧失和严重的全球大气污染。如果在缺乏严格监管的情况下继续推进工业制造，上升的碳排放将加速气候变化，造成最终威胁人类生存和全球农业安全的灾难性生态破坏。一个显著的例子是严重城市化制造地区所经历的严重工业雾霾，它招致了巨额的公共医疗支出，降低了公民的平均预期寿命，并严重削弱了长期的经济生产力。
+
+总之，经济增长与环境保护并非相互排斥，而是深刻联系在一起的稳定支柱。政府不应完全中止经济进步，而必须转向绿色经济——利用税收优惠、碳定价和可再生技术——以确保经济收益严格在可持续的生态极限内实现。
+
