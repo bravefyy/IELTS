@@ -28,7 +28,7 @@
 #### 模板二：高阶辩证型（注重结构严谨与社会学逻辑链）
 
 - **Introduction（开头段）**
-  - **背景句**：The rapid evolution of modern society has brought [Problem Concept/Issue] to the forefront of public concern.
+  - **背景句**：The rapid evolution of modern society has brought [Problem Concept/Issue] to the forefront焦点 of public concern.
   - **立场句**：Left unaddressed, this issue risks undermining social cohesion and economic progress. This essay aims to analyze the primary factors driving this phenomenon and outline constructive measures to address it.
   - *中文翻译*：现代社会的快速演变使[问题概念]成为公众关注的焦点。如果不加以解决，这一问题有可能破坏社会凝聚力和经济进步。本文旨在分析推动这一现象的主要因素，并概述解决该问题的建设性举措。
 - **Body 1（主体段1：分析原因/问题）**
@@ -54,7 +54,7 @@
 >
 > **题目翻译：** 在许多国家，人口老龄化正在加剧，导致劳动力萎缩以及公共财政负担加重。这会导致什么问题？可以采取哪些解决方案来解决这个问题？  
 
-#### 2. 7分以上标准范文（Word Count: 268 words）
+#### 2. 7分以上标准范文（Word Count: 256 words）
 
 In contemporary society, population aging has increasingly emerged as a pressing issue that affects overall social and economic well-being. Left unaddressed, this demographic shift risks undermining economic productivity and social stability. This essay will examine the primary problems caused by this trend and outline constructive solutions.  
 
@@ -127,7 +127,7 @@ To tackle these issues, a combination of proactive measures must be implemented.
 
 In conclusion, while rural depopulation poses significant economic and social challenges, it can be effectively mitigated through targeted government investment and regional development policies. Joint efforts from both policymakers and local communities are essential for sustaining long-term balance between urban and rural areas.
 
-*(Word Count: 254 words)*
+*(Word Count: 248 words)*
 
 **范文中文翻译：**
 
@@ -141,11 +141,11 @@ In conclusion, while rural depopulation poses significant economic and social ch
 
 
 
-扩充词汇后
+### 扩充词汇后 279words
 
 It is observed that the mass migration of young adults from rural areas to major metropolitan cities has become an increasingly pressing issue in modern society. This essay will analyze the potential problems of this phenomenon and propose several effective measures to address it.
 
-There are several primary factors and consequences contributing to this trend. Chief among these is the severe economic imbalance between urban and rural regions. Specifically, the urbanization process drives up economic opportunities in cities while leaving rural areas with an acute population aging and a shrinking active labour force, which severely depresses local economic productivity. Furthermore, this relentless demographic shift places a heavy strain on municipal infrastructure, housing supply, and public transport in mega-cities, while rural regions suffer from a disastrous decline in essential public services like education and healthcare, ultimately exacerbating multi-dimensional social inequality.
+There are several primary factors and consequences contributing to this trend. Chief among these is the severe economic imbalance between urban and rural regions. Specifically, the urbanization process drives up economic opportunities in cities while leaving rural areas with an acute population aging and a shrinking active labour force, which severely depresses local economic productivity. Furthermore, this relentless持续的 demographic shift places a heavy strain on municipal infrastructure, housing supply, and public transport in mega-cities, while rural regions suffer from a disastrous decline in essential public services like education and healthcare, ultimately exacerbating multi-dimensional social inequality.
 
 To tackle these issues, a combination of proactive measures must be implemented. On the one hand, governments should strategically invest in rural infrastructure and offer targeted tax incentives to corporations that establish operations in regional areas. By doing so, sustainable employment opportunities can be created locally, effectively encouraging young professionals to remain in or return to their hometowns. On the other hand, promoting specialized vocational training and high-speed digital infrastructure in rural sectors enables local residents to adapt to modern market demands and remote employment, thereby narrowing the regional wealth gap without forcing involuntary migration.
 
@@ -235,7 +235,7 @@ Another significant contributor is the lack of strict legal enforcement regardin
 
 In summary, environmental degradation is driven by unregulated industrial growth and weak legal frameworks. By adopting a dual strategy of incentivizing clean technology and enforcing strict environmental laws, society can achieve economic prosperity without sacrificing ecological stability.
 
-*(Word Count: 251 words)*
+*(Word Count: 213 words)*
 
 **范文中文翻译：**
 
@@ -251,7 +251,7 @@ In summary, environmental degradation is driven by unregulated industrial growth
 
 
 
-### 扩充词汇后
+### 扩充词汇后264words
 
 Recently, environmental degradation resulting from rapid industrial expansion has emerged as a major challenge globally. Understanding the root causes of this issue is crucial for formulating effective remedies.
 
