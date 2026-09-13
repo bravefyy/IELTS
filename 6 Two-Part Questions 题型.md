@@ -90,7 +90,7 @@ Two-Part Questions 最常见的四种提问组合及其标准写作框架如下�
   - *In many countries, the proportion of elderly people is increasing rapidly.*
   - *Why is this happening? What impacts does this trend have on society?*
   - **题目翻译**：在许多国家，老年人的比例正在迅速增加。为什么会发生这种情况？这一趋势对社会有什么影响？
-- **Model Essay (范文 - 268 words)**
+- **Model Essay (范文 - 228 words)**
 
 In the contemporary globalized world, population aging has become an increasingly prominent phenomenon. This essay will analyze the driving factors behind this trend and evaluate its long-term social impacts.  
 
@@ -100,13 +100,16 @@ From a broader societal perspective, this trend exerts profound impacts on natio
 
 In conclusion, while advanced healthcare and declining birth rates serve as the primary catalysts for population aging, its social consequences are multifaceted. Governments must proactively adapt pension schemes and healthcare infrastructure to minimize economic burdens while maintaining societal harmony.  
 
-- **范文中文翻译**： 在当今全球化世界中，人口老龄化已成为一个日益显著的现象。本文将分析该趋势背后的驱动因素，并评估其长期社会影响。 首先，老年人口的剧增是由多种社会经济因素共同驱动的。医疗进步提高了医疗质量，显著延长了平均预期寿命。同时，不断上升的生活成本和职业需求导致许多年轻人推迟结婚和生育，导致出生率暴跌。例如，在像日本这样快速老龄化的社会中，新生儿的严重短缺与长寿相结合，加速了这种人口结构转变。 从更广泛的社会视角来看，这一趋势对国家稳定和公众福祉产生了深刻影响。一方面，随着白发人群的扩大，活性劳动力的相应萎缩抑制了经济生产力。另一方面，不断增加的养老金和医疗开支给公共财政带来了严重的财政压力，并给年轻劳动力带来了沉重的税收负担。如果得不到解决，这些重叠的人口压力可能会加深代际摩擦。例如，几个欧洲国家上升的养老金成本现在要求对在职青年提出更高的税收要求，引发了社会讨论。 总之，虽然先进的医疗保健和下降的出生率是人口老龄化的主要催化剂，但其社会后果是多方面的。政府必须积极调整养老金计划和医疗设施，以在维持社会和谐的同时最大限度地减少经济负担。 
+- 在当今全球化世界中，人口老龄化已成为一个日益显著的现象。本文将分析该趋势背后的驱动因素，并评估其长期社会影响。 
+- 首先，老年人口的剧增是由多种社会经济因素共同驱动的。医疗进步提高了医疗质量，显著延长了平均预期寿命。同时，不断上升的生活成本和职业需求导致许多年轻人推迟结婚和生育，导致出生率暴跌。例如，在像日本这样快速老龄化的社会中，新生儿的严重短缺与长寿相结合，加速了这种人口结构转变。 
+- 从更广泛的社会视角来看，这一趋势对国家稳定和公众福祉产生了深刻影响。一方面，随着白发人群的扩大，活性劳动力的相应萎缩抑制了经济生产力。另一方面，不断增加的养老金和医疗开支给公共财政带来了严重的财政压力，并给年轻劳动力带来了沉重的税收负担。如果得不到解决，这些重叠的人口压力可能会加深代际摩擦。例如，几个欧洲国家上升的养老金成本现在要求对在职青年提出更高的税收要求，引发了社会讨论。
+-  总之，虽然先进的医疗保健和下降的出生率是人口老龄化的主要催化剂，但其社会后果是多方面的。政府必须积极调整养老金计划和医疗设施，以在维持社会和谐的同时最大限度地减少经济负担。 
 
 
 
 
 
-### 扩充词汇后
+### 扩充词汇后264words
 
 In the contemporary globalized world, population aging has become an increasingly prominent phenomenon. This essay will analyze the driving factors behind this trend and evaluate its long-term social impacts.
 
@@ -160,7 +163,7 @@ In conclusion, while advanced healthcare and declining birth rates serve as the 
   - *In many cities, rising housing prices make it difficult for young people to buy their own homes.*
   - *What are the causes of this problem? What measures can be taken to solve it?*
   - **题目翻译**：在许多城市，不断上涨的房价使年轻人难以购买自己的房子。造成这个问题的原因是什么？可以采取什么措施来解决它？
-- **Model Essay (范文 - 263 words)**
+- **Model Essay (范文 - 232 words)**
 
 The issue of skyrocketing housing prices in urban areas has escalated into a critical challenge facing modern societies. This essay will explore the root causes of this problem and propose targeted solutions to address it.  
 
@@ -176,7 +179,7 @@ In summary, rising urban housing prices are mainly rooted in rapid urbanization 
 
 
 
-### 扩充词汇后
+### 扩充词汇后264words
 
 The issue of skyrocketing housing prices in urban areas has escalated into a critical challenge facing modern societies. This essay will explore the root causes of this problem and propose targeted solutions to address it.
 
@@ -236,7 +239,7 @@ In summary, rising urban housing prices are mainly rooted in rapid urbanization 
   - *Over-reliance on personal cars has led to severe traffic congestion and air pollution in modern cities.*
   - *What are the impacts of this trend? What can be done to address these issues?*
   - **题目翻译**：过度依赖私家车导致了现代城市严重的交通拥堵和空气污染。这一趋势有什么影响？可以采取什么措施来解决这些问题？
-- **Model Essay (范文 - 265 words)**
+- **Model Essay (范文 - 232 words)**
 
 As over-reliance on private automobiles accelerates globally, its profound effects on urban life have sparked widespread public debate. This essay will outline the main consequences of this phenomenon and outline viable measures to manage its drawbacks.  
 
@@ -252,7 +255,7 @@ To conclude, while the environmental and economic impacts of automobile dependen
 
 
 
-### 扩充词汇后
+### 扩充词汇后264words
 
 As over-reliance on private automobiles accelerates globally, its profound effects on urban life have sparked widespread public debate. This essay will outline the main consequences of this phenomenon and outline viable measures to manage its drawbacks.
 
@@ -306,7 +309,7 @@ To conclude, while the environmental and economic impacts of automobile dependen
   - *Cultural heritage is considered important by many people.*
   - *Why is cultural heritage important? How can governments protect cultural heritage?*
   - **题目翻译**：文化遗产被许多人认为很重要。为什么文化遗产很重要？政府如何保护文化遗产？
-- **Model Essay (范文 - 262 words)**
+- **Model Essay (范文 - 223 words)**
 
 The protection of cultural heritage has become a pivotal subject in contemporary discussions regarding global identity and social cohesion. This essay will address why preserving heritage assets is essential and explain how governments can implement effective conservation policies.  
 
@@ -322,7 +325,7 @@ In summary, cultural heritage serves as an irreplaceable pillar of societal iden
 
 
 
-扩充词汇后
+### 扩充词汇后272words
 
 The protection of cultural heritage has become a pivotal subject in contemporary discussions regarding global identity and social cohesion. This essay will address why preserving heritage assets is essential and explain how governments can implement effective conservation policies.
 

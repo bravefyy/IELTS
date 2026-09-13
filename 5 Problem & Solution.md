@@ -331,7 +331,7 @@ In summary, environmental degradation is driven by unregulated industrial growth
 
 **(题目翻译：在许多国家，老年人口的比例正在迅速增加。这会导致什么问题？可以采取什么措施来解决？)**
 
-**Model Essay (Word count: 268 words)**
+**Model Essay (Word count: 222 words)**
 
 In recent years, population aging has emerged as a pressingly acute societal issue worldwide. This phenomenon is primarily triggered by declining birth rates and rising life expectancy, which poses severe threats to economic stability. To address these challenges, proactive state interventions and systemic structural policies must be implemented.
 
@@ -355,7 +355,7 @@ In conclusion, while population aging presents formidable economic and social bu
 
 
 
-### 扩充词汇后
+### 扩充词汇后 257words
 
 In recent years, population aging has emerged as a pressingly acute societal issue worldwide. This phenomenon is primarily triggered by declining birth rates and rising life expectancy, which poses severe threats to economic stability. To address these challenges, proactive state interventions and systemic structural policies must be implemented.
 
@@ -422,7 +422,7 @@ In conclusion, while population aging presents formidable economic and social bu
 
 **(题目翻译：在许多国家，上升的失业率和收入不平等正在引发严重的社会问题。其主要原因是什么？政府应如何解决这些问题？)**
 
-**Model Essay (Word count: 265 words)**
+**Model Essay (Word count: 224 words)**
 
 The widening gap of income inequality and rising joblessness have become critical threats to modern economic progress. This crisis is largely rooted in rapid technological automation and uneven resource allocation, generating broad social instability. Nevertheless, targeted fiscal policies and comprehensive education programs offer workable solutions to restore equilibrium.
 
@@ -444,7 +444,7 @@ To summarize, economic disparities and structural unemployment pose grave challe
 
 
 
-### 扩充词汇后
+### 扩充词汇后 274words
 
 The widening gap of income inequality and rising joblessness have become critical threats to modern economic progress. This crisis is largely rooted in rapid technological automation and uneven resource allocation, generating broad social instability. Nevertheless, targeted fiscal policies and comprehensive education programs offer workable solutions to restore equilibrium.
 
@@ -511,7 +511,7 @@ To summarize, economic disparities and structural unemployment pose grave challe
 
 **(题目翻译：每年都有许多少数语言和传统文化消失。这一趋势的原因是什么？可以采取什么措施来保护文化多样性？)**
 
-**Model Essay (Word count: 262 words)**
+**Model Essay (Word count: 237 words)**
 
 The rapid acceleration of globalization has led to the critical erosion of traditional cultures and minority languages. This situation mainly stems from the overwhelming dominance of global media and universal communication formats, which threatens local diversity. To reverse this irreversible loss, active preservation efforts and inclusive state cultural policies must be established.
 
@@ -535,7 +535,7 @@ In conclusion, globalization presents severe risks to traditional cultural ident
 
 
 
-### 扩充词汇后
+### 扩充词汇后274words
 
 The rapid acceleration of globalization has led to the critical erosion of traditional cultures and minority languages. This situation mainly stems from the overwhelming dominance of global media and universal communication formats, which threatens local diversity. To reverse this irreversible loss, active preservation efforts and inclusive state cultural policies must be established.
 
